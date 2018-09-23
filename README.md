@@ -18,6 +18,7 @@
 1933 Alonzo Church 在 1933 年就搞出来一套以纯λ演算为基础的逻辑，以期对数学进行形式化描述
 
 1936 Alan Turing 英国数学家艾伦·图灵提出图灵机抽象计算模型
+
 1936 Church发表可计算函数的第一份精确定义
 
 
@@ -40,21 +41,26 @@
 1952 Grace Murray Hopper 第一个编译器是由美国女性计算机科学家葛丽丝·霍普（）于1952年为A-0系统编写的
 
 1956 人工智能被确立为一门学科
+
 1956 John Backus Peter Naur 上下文无关文法 (又称为巴科斯-诺尔范式)
 
 
 1957 John Backus FORTRAN 高级语言开发成功
+
 1958 John McCarthy Lisp 起源于公元1958年，是现今第二悠久而仍广泛使用的高阶编程语言
 
 
 1960 ALGOL 是第一个结合了命令式和 λ演算的编程语言
+
 1960 COBOL
+
 1960 Ole-Johan Dahl Simula语言 第一个面向对象程式设计的编程语言
 
 
 1962 Tony Hoare  快速排序算法
 
 1964 John G. Kemeny and Thomas E. Kurtz Basic语言
+
 1964 Frederick P. Brooks 被指派负责System/360开发项目的OS/360软件
 
 
@@ -111,33 +117,43 @@
 
 
 1976 Bill Joy vi是一种计算机文本编辑器，由美国计算机科学家比尔·乔伊（）完成编写
+
 1976 Steve jobs 成立苹果计算机公司
+
 1976 Edsger W. Dijkstra ,A Discipline of Programming
 
 
 1977 Ron Rivest,Adi Shamir,Leonard Adleman 著名的RSA算法诞生
+
 1977 Alfred Aho, Peter Weinberger, and Brian Kernighan,  AWK
 
 1978 The C Programming Language
 
 1979 Bjarne Stroustrup C++ (Stroustrup）工作起于1979年的C with Classes
+
 1979 计算机程序的构造和解释
+
 1979 Oracle Database
 
 
 1980 Alan Curtis Kay, Smalltalk
+
 1980 苹果公司 Object-C
 
 
 1982 Sun Microsystems
 
 1983 五笔字型汉字输入法通过鉴定
+
 1983 在因特网的前身（ARPA网）中，TCP/IP取代旧的网络控制协议（NCP，Network Control Protocol），从而成为今天的互联网的基石
+
 1983 UNIX操作系统和C语言 图灵奖
 
 
 1984 苹果电脑（今 苹果公司）发布了其第一台Macintosh个人电脑
+
 1984 CommonLisp
+
 1985 Microsoft Windows发布
 
 
@@ -604,6 +620,8 @@
 
 2013 The Golden Ticket: P, NP, and the Search for the Impossible
 
+2013 Software Architecture for Developers
+
 
 
 ## 微服务
@@ -668,14 +686,21 @@
 
 
 2017 Java 9 正式发布
+
 2017 Spring 5.0发布
+
 2017 Service Mesh
+
 2017 Designing Data-Intensive Applications
+
 2017 Clean Architecture: A Craftsman's Guide to Software Structure and Design
+
 2017 Computer Science Distilled: Learn the Art of Solving Computational Problems
+
 2017 Design It!From Programmer to Software Architect
 
 
 
 2018 Java 10 正式发布
+
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
