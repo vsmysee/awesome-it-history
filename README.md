@@ -163,6 +163,8 @@
 1983 UNIX操作系统和C语言 图灵奖
 
 
+## 个人电脑
+
 1984 苹果电脑（今 苹果公司）发布了其第一台Macintosh个人电脑
 
 1984 CommonLisp
@@ -269,6 +271,7 @@
 
 
 ## 浏览器
+
 1994 第一个版本的网页浏览器Mosaic Netscape 0.9于1994年底发布
 
 1994 Jeffrey Preston Jorgensen,于1994年7月创建了Amazon
@@ -321,6 +324,7 @@
 
 
 ## Lucene
+
 1999 Doug Cutting,Lucene
 
 1999 定义了HTTP协议中现今广泛使用的一个版本——HTTP 1.1
@@ -364,6 +368,7 @@
 
 
 ## IDE
+
 2001 Eclipse IBM公司贡献给开源社区
 
 2001 IntelliJ IDEA
@@ -738,6 +743,7 @@
 
 2015 Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
 
+
 ## 智能
 
 2016 TensorFlow 0.8.0版
@@ -753,6 +759,8 @@
 2016 Functional and Reactive Domain Modeling 
 
 2016 Akka in Action
+
+2016 Reactive Web Applications: Covers Play, Akka, and Reactive Streams
 
 
 2017 Java 9 正式发布
