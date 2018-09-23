@@ -340,6 +340,9 @@
 1999 Refactoring: Improving the Design of Existing Code
 
 
+
+## 新千年
+
 2000 Mac OS X 的公开测试版于2000年释出
 
 2000 JetBrains成立于2000年，是一家私人持股的公司
@@ -359,6 +362,8 @@
 
 2001 十七名软件开发人员在犹他州的雪鸟度假村会面，讨论这些轻量级的开发方法，并由Jeff Sutherland，Ken Schwaber和Alistair Cockburn发起，一同发布了“敏捷软件开发宣言”
 
+
+## IDE
 2001 Eclipse IBM公司贡献给开源社区
 
 2001 IntelliJ IDEA
@@ -376,7 +381,8 @@
 2001 Clark Evans,YAML
 
 
-## Spring
+## Spring && DDD
+
 2002 Spring Framework 最初由Rod Johnson和Juergen Hoeller等开发
 
 2002 Patterns of Enterprise Application Architecture
@@ -394,6 +400,10 @@
 
 2003 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
+
+## Google论文
+
+
 2003 Google发布Google File System论文
 
 2003 Google发布Cluster论文
@@ -410,7 +420,7 @@
 
 
 
-## Google论文
+
 2004 Yonik Seeley,Solr作为CNET Networks为公司网站添加搜索功能的一个内部项目
 
 2004 Google公布的 MapReduce论文
@@ -607,8 +617,15 @@
 
 2010 Just Enough Software Architecture: A Risk-Driven Approach
 
+2010 Domain-Specific Languages
+
+2010 DSLs in Action
+
+2010 Real-World Functional Programming: With Examples in F# and C# 
+
 
 ## 大数据
+
 2011 WeiChat
 
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
@@ -621,7 +638,7 @@
 
 2011 Reactive Extensions
 
-2011 持续交付
+2011 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 
 2011 Domain-Specific Languages
 
@@ -647,6 +664,7 @@
 2012 Code Simplicity: The Fundamentals of Software
 
 ## Docker时代
+
 2013 Docker
 
 2013 React由Facebook 的软件工程师Jordan Walke创建
@@ -665,11 +683,12 @@
 
 
 ## 微服务
+
 2014 在为AngularJS工作之后，Vue的作者尤雨溪开发出了这一框架
 
 2014 Kubernetes 由谷歌在2014年首次对外宣布
 
-2014 html5
+2014 Html5
 
 2014 Martin Fowler 与 James Lewis 共同提出了微服务的概念，定义了微服务是由以单一应用程序构成的小服务，自己拥有自己的行程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯
 
@@ -714,8 +733,13 @@
 
 2015 Clojure for the Brave and True
 
+2015 Patterns, Principles, and Practices of Domain-Driven Design
+
+
+2015 Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
 
 ## 智能
+
 2016 TensorFlow 0.8.0版
 
 2016 分布式关系型数据库 TiDB 正式发布 RC1
@@ -725,6 +749,10 @@
 2016 Deep Learning
 
 2016 Site Reliability Engineering
+
+2016 Functional and Reactive Domain Modeling 
+
+2016 Akka in Action
 
 
 2017 Java 9 正式发布
@@ -741,8 +769,12 @@
 
 2017 Design It!From Programmer to Software Architect
 
+2017 Reactive Design Patterns 
+
 
 
 2018 Java 10 正式发布
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+
+2018 Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# 
