@@ -11,7 +11,12 @@
 
 ## 数学危机
 
+1642 法国科学家帕斯卡（B.Pascal）发明了著名的帕斯卡机械计算机，首次确立了计算机器的概念
+
 1679 Gottfried Wilhelm Leibniz 二进制记数系统由莱布尼茨于1679年设计,在他1703年发表的文章《论只使用符号0和1的二进制算术，兼论其用途及它赋予伏羲所使用的古老图形的意义》
+
+1834 巴贝奇提出了分析机的概念，机器共分为三个部分：堆栈，运算器，控制器。他的助手， 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）为分析机编制了人类历史上第一批计算机程序。阿达和巴贝奇为计算机的发展创造了不朽的功勋，他们对计算机的预见起码超前了一个世纪以上，正是他们的辛勤努力，为后来计算机的出现奠定了坚实的基础。
+
 
 1847 George Boole 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
 
@@ -23,7 +28,7 @@
 
 1936 Alan Turing 英国数学家艾伦·图灵提出图灵机抽象计算模型
 
-1936 Church发表可计算函数的第一份精确定义
+1936 Alonzo Church发表可计算函数的第一份精确定义
 
 
 1939 通用图灵机、通用递归函数、λ可定义,正式确认这三个模型是等效的
@@ -31,27 +36,27 @@
 
 ## 计算机诞生
 
-1945 John von Neumann 冯·诺伊曼与戈德斯坦、勃克斯等人，联名发表了一篇长达101页纸的报告,即计算机史上著名的“101页报告”
+1945 John von Neumann, 冯·诺伊曼与戈德斯坦、勃克斯等人，联名发表了一篇长达101页纸的报告,即计算机史上著名的“101页报告”
 
 1946 ENIAC (Electronic Numerical Integrator 和 Computer)电子数值积分计算机: 第一台真正意义上的数字电子计算机
 
 
 ## 编程
-1947 Grace Hopper 一只飞蛾误打误撞地飞到了计算机内部，从而引发了故障。从此，人们开始用“Bug”
+1947 Grace Hopper, 一只飞蛾误打误撞地飞到了计算机内部，从而引发了故障。从此，人们开始用“Bug”
 
 
-1951 Stephen Kleene 一位名叫Stephen Kleene的数学科学家，他在Warren McCulloch和Walter Pitts早期工作的基础之上，发表了一篇题目是《神经网事件的表示法》的论文,利用称之为正则集合的数学符号来描述此模型，引入了正则表达式的概念
+1951 Stephen Kleene, 一位名叫Stephen Kleene的数学科学家，他在Warren McCulloch和Walter Pitts早期工作的基础之上，发表了一篇题目是《神经网事件的表示法》的论文,利用称之为正则集合的数学符号来描述此模型，引入了正则表达式的概念
 
-1952 Grace Murray Hopper 第一个编译器是由美国女性计算机科学家葛丽丝·霍普（）于1952年为A-0系统编写的
+1952 Grace Murray Hopper, 第一个编译器是由美国女性计算机科学家葛丽丝·霍普（）于1952年为A-0系统编写的
 
 1956 人工智能被确立为一门学科
 
-1956 John Backus Peter Naur 上下文无关文法 (又称为巴科斯-诺尔范式)
+1956 John Backus, Peter Naur, 上下文无关文法 (又称为巴科斯-诺尔范式)
 
 
-1957 John Backus FORTRAN 高级语言开发成功
+1957 John Backus, FORTRAN 高级语言开发成功
 
-1958 John McCarthy Lisp 起源于公元1958年，是现今第二悠久而仍广泛使用的高阶编程语言
+1958 John McCarthy, Lisp 起源于公元1958年，是现今第二悠久而仍广泛使用的高阶编程语言
 
 
 1960 ALGOL 是第一个结合了命令式和 λ演算的编程语言
@@ -61,7 +66,7 @@
 1960 Ole-Johan Dahl Simula语言 第一个面向对象程式设计的编程语言
 
 
-1962 Tony Hoare  快速排序算法
+1962 Tony Hoare,  快速排序算法
 
 1964 John G. Kemeny and Thomas E. Kurtz Basic语言
 
@@ -80,6 +85,8 @@
 
 
 1968  Donald Knuth《计算机程序设计艺术》，简称TAOCP
+
+1968  Intel
 
 1968  Niklaus Emil Wirth ,Pascal, 一个有影响的面向对象和面向过程编程语言
 
@@ -145,6 +152,8 @@
 1980 苹果公司 Object-C
 
 
+1981 微软推出来MS-DOS 1.0版
+
 1982 Sun Microsystems
 
 1983 五笔字型汉字输入法通过鉴定
@@ -158,6 +167,9 @@
 
 1984 CommonLisp
 
+
+1985 Intel 公司推出了计算机历史上有着举足轻重地位的80386处理器，这也是intel公司的第一枚32位处理器
+
 1985 Microsoft Windows发布
 
 
@@ -169,6 +181,8 @@
 1986 Programming Pearls
 
 1986 Design of the UNIX Operating System
+
+1986 The Tao of Programming (English and Chinese Edition)
 
 
 1987 Larry Wall,Perl
@@ -183,6 +197,10 @@
 1988 PostgreSQL
 
 1988 C Programming Language, 2nd Edition
+
+1988 由 23岁研究生罗伯特.莫里斯（R.T.Morris）编制的“蠕虫”病毒在互联网上大规模发作，这也是互联网第一次遭受病毒的侵袭，从此，计算机病毒逐渐传播开来
+
+1988 The Zen of Programming
 
 
 ## Http
@@ -216,6 +234,9 @@
 
 1991 首次发布了The Unicode Standard
 
+
+
+1992 Internet协会成立，简称（ISOC）
 
 1992 Undocumented Windows
 
@@ -281,6 +302,8 @@
 1996 Netbeans
 
 1996 Steve McConnell,Rapid Development
+
+1996 Analysis Patterns: Reusable Object Models
 
 
 1997 Mac OS 8于1997年发布
@@ -424,6 +447,12 @@
 
 2004 Hackers & Painters: Big Ideas from the Computer Age
 
+2004 Write Great Code: Volume 1: Understanding the Machine
+
+2004 Expert One-on-One J2EE Development without EJB
+
+2004 Modern Compiler Implementation in C
+
 
 2005 Linus Benedict Torvalds,Git
 
@@ -467,6 +496,7 @@
 
 2006  Java Concurrency in Practice
 
+2006  Code Craft: The Practice of Writing Excellent Code
 
 
 ## Iphone & Android
@@ -516,6 +546,8 @@
 2008 The Elements of Computing Systems: Building a Modern Computer from First Principles
 
 2008 The Productive Programmer
+
+2008 Practical API Design: Confessions of a Java Framework Architect
 
 ## Nosql
 2009 挖出了比特币的第一个区块,发行了最初的50个比特币
@@ -610,6 +642,9 @@
 
 2012 The Architecture Of Open Source Applications
 
+2012 Think Complexity: Complexity Science and Computational Modeling
+
+2012 Code Simplicity: The Fundamentals of Software
 
 ## Docker时代
 2013 Docker
@@ -626,6 +661,7 @@
 
 2013 Software Architecture for Developers
 
+2013 Systems Performance: Enterprise and the Cloud
 
 
 ## 微服务
@@ -675,6 +711,8 @@
 2015 Thiago de Arruda Padilha,Neovim
 
 2015 Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition
+
+2015 Clojure for the Brave and True
 
 
 ## 智能
