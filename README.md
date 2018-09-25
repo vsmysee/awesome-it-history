@@ -42,6 +42,7 @@
 
 
 ## 编程
+
 1947 Grace Hopper, 一只飞蛾误打误撞地飞到了计算机内部，从而引发了故障。从此，人们开始用“Bug”
 
 
@@ -63,17 +64,18 @@
 
 1960 COBOL
 
-1960 Ole-Johan Dahl Simula语言 第一个面向对象程式设计的编程语言
+1960 Ole-Johan Dahl, Simula语言 第一个面向对象程式设计的编程语言
 
 
 1962 Tony Hoare,  快速排序算法
 
-1964 John G. Kemeny and Thomas E. Kurtz Basic语言
+1964 John G. Kemeny and Thomas E. Kurtz, Basic语言
 
 1964 Frederick P. Brooks 被指派负责System/360开发项目的OS/360软件
 
 
 ## 结构化
+
 1966 结构化编程 发表论文
 
 1966 计算机协会（ACM）设立图灵奖
@@ -84,7 +86,7 @@
 1967 ASCII第一次以规范标准的类型发表
 
 
-1968  Donald Knuth《计算机程序设计艺术》，简称TAOCP
+1968  Donald Knuth,《计算机程序设计艺术》，简称TAOCP
 
 1968  Intel
 
@@ -224,6 +226,7 @@
 
 
 ## Linux
+
 1991 Linus Torvalds,在赫尔辛基，开始那个后面成为了Linux内核的项目
 
 1991 Bram Moolenaar, Vim的第一个版本在1991年发布
@@ -282,8 +285,12 @@
 
 1994 Yahoo
 
+1994 Timothy John Berners-Lee,W3C
+
 
 1995 Brendan Eich,Javascript 在1995年5月仅花了十天时间就把原型设计出来了
+
+1995 HTML 2.0
 
 1995 人月神话发行纪念版
 
@@ -300,6 +307,8 @@
 
 1996 Flash
 
+1996 CSS1
+
 1996 MySQL 1.0发布, 在小范围内使用
 
 1996 Netbeans
@@ -309,7 +318,11 @@
 1996 Analysis Patterns: Reusable Object Models
 
 
+1997 Html 3.2
+
 1997 Mac OS 8于1997年发布
+
+1997 Netflix
 
 1997 Aspect-oriented programming论文
 
@@ -322,12 +335,16 @@
 
 1998 Component Software—Beyond Object-Oriented Programming
 
+1998 CSS2
+
 
 ## Lucene
 
 1999 Doug Cutting,Lucene
 
 1999 定义了HTTP协议中现今广泛使用的一个版本——HTTP 1.1
+
+1999 HTML 4.01
 
 1999 Rob Pike,The Practice of Programming
 
@@ -385,6 +402,8 @@
 
 2001 Clark Evans,YAML
 
+2001 Engines of Logic: Mathematicians and the Origin of the Computer
+
 
 ## Spring && DDD
 
@@ -402,6 +421,7 @@
 
 2002 Concepts in Programming Languages
 
+2003 Dave Shea推出了一个名为“CSS禅意花园”("CSS Zen Garden")的站点
 
 2003 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
@@ -423,6 +443,9 @@
 
 2003 Xcode
 
+2003 Brad Fitzpatrick,Memcached
+
+2003 LinkedIn
 
 
 
@@ -481,11 +504,15 @@
 
 2005 Algol 60语言 图灵奖
 
-2005 Don Syme F#
+2005 Don Syme,F#
 
+2005 世界信息峰会上，国际电信联盟发布了《ITU互联网报告2005：物联网》，其中指出“物联网”时代的来临
 
 ## 云计算时代开启
+
 2006  John Resig,Jquery 在2006年1月的BarCamp NYC上发布第一个版本
+
+2006  “DIV+CSS”布局逐步取代缺乏灵活性的传统表格布局
 
 2006  Amazon发布EC2受限公众Beta版本
 
@@ -516,7 +543,11 @@
 
 ## Iphone & Android
 
+2007 Kindle
+
 2007 Hbase诞生
+
+2007 RabbitMq
 
 2007 Google,Rob Pike开始设计Go,Go于2009年11月正式宣布推出
 
@@ -534,6 +565,7 @@
 
 
 ## Github
+
 2008 GitHub平台于2007年10月1日开始开发。网站于2008年2月以beta版本开始上线，4月份正式上线
 
 2008 Google官方博客宣布Chrome测试版已经开放下载
@@ -543,6 +575,8 @@
 2008 Google App Engine
 
 2008 LXC（Linux Containers）是第一个完整实现Linux容器管理的工具
+
+2008 Chrome V8
 
 2008 Beautiful Code
 
@@ -554,8 +588,6 @@
 
 2008 Clean Code: A Handbook of Agile Software Craftsmanship
 
-2008 Chrome V8
-
 2008 Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software
 
 2008 The Elements of Computing Systems: Building a Modern Computer from First Principles
@@ -565,6 +597,7 @@
 2008 Practical API Design: Confessions of a Java Framework Architect
 
 ## Nosql
+
 2009 挖出了比特币的第一个区块,发行了最初的50个比特币
 
 2009 Ryan Dahl,Node.js于2009年写成
@@ -631,7 +664,11 @@
 
 ## 大数据
 
+2011 DevOps
+
 2011 WeiChat
+
+2011 CSS3
 
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
 
@@ -721,6 +758,9 @@
 
 2014 Computer Science: An Overview (12th Edition)
 
+2014  Nathan Marz,Lambda Architecture
+
+2014 Jay Kreps,Kappa Architecture
 
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
@@ -740,9 +780,9 @@
 
 2015 Patterns, Principles, and Practices of Domain-Driven Design
 
-
 2015 Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
 
+2015 Big Data: Principles and best practices of scalable realtime data systems
 
 ## 智能
 
@@ -777,7 +817,9 @@
 
 2017 Design It!From Programmer to Software Architect
 
-2017 Reactive Design Patterns 
+2017 Reactive Design Patterns
+
+2017 Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer
 
 
 
