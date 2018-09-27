@@ -18,17 +18,17 @@
 1834 巴贝奇提出了分析机的概念，机器共分为三个部分：堆栈，运算器，控制器。他的助手， 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）为分析机编制了人类历史上第一批计算机程序。阿达和巴贝奇为计算机的发展创造了不朽的功勋，他们对计算机的预见起码超前了一个世纪以上，正是他们的辛勤努力，为后来计算机的出现奠定了坚实的基础。
 
 
-1847 George Boole 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
+1847 George Boole, 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
 
-1924 Thomas J. Watson 沃森将CTR改名为IBM
+1924 Thomas J. Watson, 沃森将CTR改名为IBM
 
-1930 Kurt Friedrich Gödel 宣布其哥德尔不完备定理，引起当时重要数学家如冯·诺伊曼和希尔伯特等的重视
+1930 Kurt Friedrich Gödel, 宣布其哥德尔不完备定理，引起当时重要数学家如冯·诺伊曼和希尔伯特等的重视
 
-1933 Alonzo Church 在 1933 年就搞出来一套以纯λ演算为基础的逻辑，以期对数学进行形式化描述
+1933 Alonzo Church, 在1933年就搞出来一套以纯λ演算为基础的逻辑，以期对数学进行形式化描述
 
-1936 Alan Turing 英国数学家艾伦·图灵提出图灵机抽象计算模型
+1936 Alan Turing,英国数学家艾伦·图灵提出图灵机抽象计算模型
 
-1936 Alonzo Church发表可计算函数的第一份精确定义
+1936 Alonzo Church,发表可计算函数的第一份精确定义
 
 
 1939 通用图灵机、通用递归函数、λ可定义,正式确认这三个模型是等效的
@@ -45,6 +45,9 @@
 
 1947 Grace Hopper, 一只飞蛾误打误撞地飞到了计算机内部，从而引发了故障。从此，人们开始用“Bug”
 
+1948 C. E. Shannon,通信的数学理论
+
+1950 Alan Turing,论文“计算机和智能(Computing machinery and intelligence)
 
 1951 Stephen Kleene, 一位名叫Stephen Kleene的数学科学家，他在Warren McCulloch和Walter Pitts早期工作的基础之上，发表了一篇题目是《神经网事件的表示法》的论文,利用称之为正则集合的数学符号来描述此模型，引入了正则表达式的概念
 
@@ -59,6 +62,7 @@
 
 1958 John McCarthy, Lisp 起源于公元1958年，是现今第二悠久而仍广泛使用的高阶编程语言
 
+1958 John von Neumann,计算机与人脑
 
 1960 ALGOL 是第一个结合了命令式和 λ演算的编程语言
 
@@ -74,6 +78,8 @@
 1964 Frederick P. Brooks 被指派负责System/360开发项目的OS/360软件
 
 
+1965 GordonMoore,Moore定律
+
 ## 结构化
 
 1966 结构化编程 发表论文
@@ -84,6 +90,8 @@
 
 
 1967 ASCII第一次以规范标准的类型发表
+
+1967 Amdahl's law
 
 
 1968  Donald Knuth,《计算机程序设计艺术》，简称TAOCP
@@ -117,9 +125,10 @@
 
 1974 Zen and the Art of Motorcycle Maintenance
 
-
+1974,Operating Systems: Design and Implementation (Prentice-Hall Software Series)
 
 ## 编辑器
+
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
 
 1975 Frederick P. Brooks, Jr 人月神话
@@ -134,6 +143,8 @@
 1976 Steve jobs 成立苹果计算机公司
 
 1976 Edsger W. Dijkstra ,A Discipline of Programming
+
+1976 Niklaus Wirth,Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation)
 
 
 1977 Ron Rivest,Adi Shamir,Leonard Adleman 著名的RSA算法诞生
@@ -154,7 +165,9 @@
 1980 苹果公司 Object-C
 
 
-1981 微软推出来MS-DOS 1.0版
+1981 微软推出来MS-DOS 1.0版f
+
+1981 Gosling Emacs
 
 1982 Sun Microsystems
 
@@ -188,6 +201,8 @@
 
 1986 The Tao of Programming (English and Chinese Edition)
 
+1986 Compilers: Principles, Techniques, and Tools
+
 
 1987 Larry Wall,Perl
 
@@ -195,6 +210,7 @@
 
 1987 Gcc
 
+1987,Prof. Andrew S. Tanenbaum  Minix,启发了Linux核心的创作
 
 1988 The Design of Everyday Things
 
@@ -239,6 +255,7 @@
 
 1991 首次发布了The Unicode Standard
 
+1991 QT
 
 
 1992 Internet协会成立，简称（ISOC）
@@ -287,10 +304,14 @@
 
 1994 Timothy John Berners-Lee,W3C
 
+1994 Donald E. Knuth,Concrete Mathematics: A Foundation for Computer Science (2nd Edition)
+
 
 1995 Brendan Eich,Javascript 在1995年5月仅花了十天时间就把原型设计出来了
 
 1995 HTML 2.0
+
+1995 Delphi
 
 1995 人月神话发行纪念版
 
@@ -328,6 +349,7 @@
 
 1997 Object-oriented Software Construction Bertrand Meyer
 
+1997 Operating Systems: Design and Implementation (Second Edition)
 
 1998 Outlook Web Access小组写成了允许客户端脚本发送HTTP请求（XMLHTTP）的第一个组件
 
@@ -469,6 +491,8 @@
 
 2004 Java 1.5
 
+2004 Minix 3
+
 2004 Head First Design Patterns
 
 2004 Better, Faster, Lighter Java
@@ -540,6 +564,9 @@
 
 2006  Code Craft: The Practice of Writing Excellent Code
 
+2006 Operating Systems Design and Implementation (3rd Edition)
+
+2006 Compilers: Principles, Techniques, and Tools (2nd Edition)
 
 ## Iphone & Android
 
@@ -599,6 +626,8 @@
 ## Nosql
 
 2009 挖出了比特币的第一个区块,发行了最初的50个比特币
+
+2009 Sun被甲骨文公司并购。詹姆斯于2010年四月时宣布从甲骨文公司离职
 
 2009 Ryan Dahl,Node.js于2009年写成
 
@@ -705,6 +734,8 @@
 
 2012 Code Simplicity: The Fundamentals of Software
 
+2012 Operating System Concepts
+
 ## Docker时代
 
 2013 Docker
@@ -761,6 +792,12 @@
 2014  Nathan Marz,Lambda Architecture
 
 2014 Jay Kreps,Kappa Architecture
+
+2014 Modern Operating Systems (4th Edition)
+
+
+
+
 
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
@@ -824,6 +861,8 @@
 
 
 2018 Java 10 正式发布
+
+2018 Java 11 正式发布
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
