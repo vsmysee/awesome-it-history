@@ -32,6 +32,7 @@
 
 
 1939 通用图灵机、通用递归函数、λ可定义,正式确认这三个模型是等效的
+1939 HP
 
 
 ## 计算机诞生
@@ -116,6 +117,7 @@
 
 
 ## C
+
 1972 Dennis Ritchie,Kenneth Lane Thompson  为了移植与开发UNIX操作系统，由丹尼斯·里奇与肯·汤普逊，以B语言为基础，在贝尔实验室设计、开发出来C
 
 1972 Alain Colmerauer与Phillipe Roussel Prolog语言
@@ -212,6 +214,9 @@
 
 1987,Prof. Andrew S. Tanenbaum  Minix,启发了Linux核心的创作
 
+1987, 华为
+
+
 1988 The Design of Everyday Things
 
 1988 PostgreSQL
@@ -285,6 +290,8 @@
 
 1993 工作流技术标准化的工业组织-工作流管理联盟（WfMC）成立
 
+1993 Mosaic浏览器
+
 1993 Object-Oriented Design and Analysis with Applications Grady Booch
 
 1993 The Formal Semantics of Programming Languages
@@ -298,7 +305,7 @@
 
 1994 Essential Client/Server Survival Guide
 
-1994 Racket (原名 PLT Scheme
+1994 Racket 原名 PLT Scheme
 
 1994 Yahoo
 
@@ -321,7 +328,14 @@
 
 1995 XML 开始有其雏形，并向W3C（万维网联盟）提案
 
+1995 Robert McCool,Apache HTTP Server
+
 1995 The Seasoned Schemer
+
+1995 IE
+
+1995 Redhat Linux
+
 
 
 1996 Internet Explorer将iframe元素加入到HTML，支持局部刷新网页
@@ -338,6 +352,8 @@
 
 1996 Analysis Patterns: Reusable Object Models
 
+
+1997 Grady Booch,UML
 
 1997 Html 3.2
 
@@ -359,14 +375,24 @@
 
 1998 CSS2
 
+1998 IPv6
+
+1998 Kent Beck, Erich Gamma, Junit
+
+1998 Joshua Bloch,Java Collection Framework
+
 
 ## Lucene
+
+1999 James Duncan Davidson ,Tomcat
 
 1999 Doug Cutting,Lucene
 
 1999 定义了HTTP协议中现今广泛使用的一个版本——HTTP 1.1
 
 1999 HTML 4.01
+
+1999 inversion of control (IoC)
 
 1999 Rob Pike,The Practice of Programming
 
@@ -386,6 +412,10 @@
 
 ## 新千年
 
+2000 java 1.3
+
+2000 POJO
+
 2000 Mac OS X 的公开测试版于2000年释出
 
 2000 JetBrains成立于2000年，是一家私人持股的公司
@@ -401,6 +431,8 @@
 
 2001 Anders Hejlsberg 重新发明了 Java，并把它叫作 C#
 
+2001 Windows XP
+
 2001 Gavin King,澳大利亚墨尔本一位27岁的程序员 这一年的11月，Hibernate的第一个版本发布了
 
 2001 十七名软件开发人员在犹他州的雪鸟度假村会面，讨论这些轻量级的开发方法，并由Jeff Sutherland，Ken Schwaber和Alistair Cockburn发起，一同发布了“敏捷软件开发宣言”
@@ -408,11 +440,17 @@
 
 ## IDE
 
+2001 BitTorrent
+
+2001 wiki
+
 2001 Eclipse IBM公司贡献给开源社区
 
 2001 IntelliJ IDEA
 
 2001 Effective Java
+
+2001 D language
 
 2001 Don't Make Me Think! A Common Sense Approach to Web Usability, by Steve Krug
 
@@ -428,6 +466,8 @@
 
 
 ## Spring && DDD
+
+2002 Java Non-blocking IO
 
 2002 Spring Framework 最初由Rod Johnson和Juergen Hoeller等开发
 
@@ -470,10 +510,11 @@
 2003 LinkedIn
 
 
+2004  Doug Lea,Tiger
 
-2004 Yonik Seeley,Solr作为CNET Networks为公司网站添加搜索功能的一个内部项目
+2004  Yonik Seeley,Solr作为CNET Networks为公司网站添加搜索功能的一个内部项目
 
-2004 Google公布的 MapReduce论文
+2004 Jeff Dean,Google公布的 MapReduce论文
 
 2004 Martin Odersky,Scala发布
 
@@ -540,7 +581,7 @@
 
 2006  Amazon发布EC2受限公众Beta版本
 
-2006  Bigtable发布于2006年，启发了无数的NoSQL数据库
+2006  Jeff Dean,Bigtable发布于2006年，启发了无数的NoSQL数据库
 
 2006  ApacheHadoop项目启动
 
@@ -661,6 +702,8 @@
 
 2009 97 Things Every Software Architect Should Know
 
+
+2010 Jeremy Ashkenas,Backbone.js
 
 2010 Shay Banon,Elasticsearch
 
@@ -802,6 +845,8 @@
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
 2015 HTTP/2标准于2015年5月以RFC 7540正式发表，取代HTTP 1.1成为HTTP的实现标准
+
+2015 Grpc
 
 2015 GraphQL 规范开源
 
