@@ -94,6 +94,8 @@
 
 1967 Amdahl's law
 
+1967 Conway's law
+
 
 1968  Donald Knuth,《计算机程序设计艺术》，简称TAOCP
 
@@ -127,7 +129,7 @@
 
 1974 Zen and the Art of Motorcycle Maintenance
 
-1974,Operating Systems: Design and Implementation (Prentice-Hall Software Series)
+1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series)
 
 ## 编辑器
 
@@ -464,6 +466,8 @@
 
 2001 Engines of Logic: Mathematicians and the Origin of the Computer
 
+2001 Eric S. Raymond ,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+
 
 ## Spring && DDD
 
@@ -509,6 +513,9 @@
 
 2003 LinkedIn
 
+2003 Eric S. Raymond,The Art of UNIX Programming
+
+
 
 2004  Doug Lea,Tiger
 
@@ -538,7 +545,6 @@
 
 2004 Better, Faster, Lighter Java
 
-2004 The Art of UNIX Programming
 
 2004 Code Reading: The Open Source Perspective
 
@@ -902,6 +908,8 @@
 2017 Reactive Design Patterns
 
 2017 Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer
+
+2017 Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment
 
 
 
