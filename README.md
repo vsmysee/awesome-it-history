@@ -471,6 +471,8 @@
 
 ## Spring && DDD
 
+2002 Joel Spolsky The Law of Leaky Abstractions
+
 2002 Java Non-blocking IO
 
 2002 Spring Framework 最初由Rod Johnson和Juergen Hoeller等开发
