@@ -913,6 +913,8 @@
 
 2017 Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment
 
+2017 Building Evolutionary Architectures: Support Constant Change
+
 
 
 2018 Java 10 正式发布
