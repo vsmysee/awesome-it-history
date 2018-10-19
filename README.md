@@ -30,8 +30,8 @@
 
 1936 Alonzo Church,发表可计算函数的第一份精确定义
 
-
 1939 通用图灵机、通用递归函数、λ可定义,正式确认这三个模型是等效的
+
 1939 HP
 
 
@@ -48,7 +48,7 @@
 
 1948 C. E. Shannon,通信的数学理论
 
-1950 Alan Turing,论文“计算机和智能(Computing machinery and intelligence)
+1950 Alan Turing,论文“计算机和智能(Computing machinery and intelligence)”
 
 1951 Stephen Kleene, 一位名叫Stephen Kleene的数学科学家，他在Warren McCulloch和Walter Pitts早期工作的基础之上，发表了一篇题目是《神经网事件的表示法》的论文,利用称之为正则集合的数学符号来描述此模型，引入了正则表达式的概念
 
@@ -146,6 +146,8 @@
 
 1976 Steve jobs 成立苹果计算机公司
 
+1976 DES 被美国联邦政府的国家标准局确定为联邦资料处理标准
+
 1976 Edsger W. Dijkstra ,A Discipline of Programming
 
 1976 Niklaus Wirth,Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation)
@@ -169,7 +171,7 @@
 1980 苹果公司 Object-C
 
 
-1981 微软推出来MS-DOS 1.0版f
+1981 微软推出来MS-DOS 1.0版
 
 1981 Gosling Emacs
 
@@ -232,8 +234,9 @@
 
 ## Http
 
-1990 Timothy John Berners-Lee,成功利用互联网实现了HTTP客户端与服务器的第一次通讯
+1990 Ronald Rivest, MD4
 
+1990 Timothy John Berners-Lee,成功利用互联网实现了HTTP客户端与服务器的第一次通讯
 
 1990 Java Sun计算机（Sun MicroSystems）公司在1990年12月开始研究的一个内部项目
 
@@ -283,6 +286,8 @@
 
 1992 Plan 9
 
+
+1993 Bill Gates say: 互联网？我们没兴趣
 
 1993 Roberto Ierusalimschy,Lua
 
@@ -386,6 +391,9 @@
 
 ## Lucene
 
+1999 Niels Provos以及David Mazières, Bcrypt
+
+
 1999 James Duncan Davidson ,Tomcat
 
 1999 Doug Cutting,Lucene
@@ -441,6 +449,8 @@
 
 
 ## IDE
+
+2001 AES 高级加密标准由美国国家标准与技术研究院（NIST）发布
 
 2001 BitTorrent
 
@@ -847,9 +857,6 @@
 2014 Modern Operating Systems (4th Edition)
 
 
-
-
-
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
 2015 HTTP/2标准于2015年5月以RFC 7540正式发表，取代HTTP 1.1成为HTTP的实现标准
@@ -873,6 +880,8 @@
 2015 Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
 
 2015 Big Data: Principles and best practices of scalable realtime data systems
+
+
 
 ## 智能
 
@@ -898,6 +907,8 @@
 2017 Spring 5.0发布
 
 2017 Service Mesh
+
+2017 istio
 
 2017 Designing Data-Intensive Applications
 
