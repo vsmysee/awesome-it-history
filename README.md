@@ -393,7 +393,6 @@
 
 1999 Niels Provos以及David Mazières, Bcrypt
 
-
 1999 James Duncan Davidson ,Tomcat
 
 1999 Doug Cutting,Lucene
@@ -417,7 +416,6 @@
 1999 Douglas Crockford,JSON
 
 1999 Refactoring: Improving the Design of Existing Code
-
 
 
 ## 新千年
@@ -585,6 +583,8 @@
 
 2005 Refactoring to Patterns
 
+2005 Head First Java, 2nd Edition
+
 2005 Algol 60语言 图灵奖
 
 2005 Don Syme,F#
@@ -631,6 +631,8 @@
 
 2007 Kindle
 
+2007 Neo4j
+
 2007 Hbase诞生
 
 2007 RabbitMq
@@ -664,6 +666,8 @@
 
 2008 Chrome V8
 
+2008 Cassandra
+
 2008 Beautiful Code
 
 2008 Continuous Integration: Improving Software Quality and Reducing Risk
@@ -681,6 +685,10 @@
 2008 The Productive Programmer
 
 2008 Practical API Design: Confessions of a Java Framework Architect
+
+2008 Head First Software Development: A Learner's Companion to Software Development
+
+2008 Head First Statistics: A Brain-Friendly Guide
 
 ## Nosql
 
@@ -720,6 +728,10 @@
 
 2009 97 Things Every Software Architect Should Know
 
+2009 Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
+
+
+2010 OceanBase
 
 2010 Jeremy Ashkenas,Backbone.js
 
@@ -760,6 +772,8 @@
 
 2011 CSS3
 
+2011 OpenTSDB
+
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
 
 2011 Kafka最初是由领英开发，并随后于2011年初开源
@@ -797,9 +811,13 @@
 
 2012 Operating System Concepts
 
+2012 Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages
+
 ## Docker时代
 
 2013 Docker
+
+2013 InfluxDB
 
 2013 React由Facebook 的软件工程师Jordan Walke创建
 
@@ -823,6 +841,8 @@
 2014 Kubernetes 由谷歌在2014年首次对外宣布
 
 2014 Html5
+
+2014 Flink
 
 2014 Martin Fowler 与 James Lewis 共同提出了微服务的概念，定义了微服务是由以单一应用程序构成的小服务，自己拥有自己的行程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯
 
@@ -856,10 +876,14 @@
 
 2014 Modern Operating Systems (4th Edition)
 
+2014 Head First JavaScript Programming: A Brain-Friendly Guide
+
 
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
 2015 HTTP/2标准于2015年5月以RFC 7540正式发表，取代HTTP 1.1成为HTTP的实现标准
+
+2015 CockroachDB,cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
 2015 Grpc
 
@@ -891,6 +915,10 @@
 
 2016 Electron 1.0版本发布
 
+2016 First public release of Pulsar
+
+2016 Beam
+
 2016 Deep Learning
 
 2016 Site Reliability Engineering
@@ -900,6 +928,8 @@
 2016 Akka in Action
 
 2016 Reactive Web Applications: Covers Play, Akka, and Reactive Streams
+
+2016 Head First Python: A Brain-Friendly Guide
 
 
 2017 Java 9 正式发布
@@ -926,6 +956,10 @@
 
 2017 Building Evolutionary Architectures: Support Constant Change
 
+2017 Head First Agile: A Brain-Friendly Guide to Agile Principles, Ideas, and Real-World Practices
+
+2017 Principles: Life and Work
+
 
 
 2018 Java 10 正式发布
@@ -934,4 +968,10 @@
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
-2018 Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# 
+2018 Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#
+
+2018 Head First Learn to Code: A Learner's Guide to Coding and Computational Thinking
+
+2018 Head First PMP: A Learner's Companion to Passing the Project Management Professional Exam
+
+2018 A Philosophy of Software Design
