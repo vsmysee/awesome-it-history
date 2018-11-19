@@ -645,6 +645,8 @@
 
 2007 Groovy 1.0于2007年1月2日发布，并于2012年7月发布了Groovy 2.0
 
+2007 Flume
+
 2007 Hans Dockter,Gradle
 
 2007 Code Quality: The Open Source Perspective by Diomidis Spinellis
@@ -823,6 +825,8 @@
 
 2013 Netty 3.1.0.GA
 
+2013 Presto
+
 2013 Team Geek
 
 2013 NoSQL Distilled
@@ -931,6 +935,8 @@
 
 2016 Head First Python: A Brain-Friendly Guide
 
+2016 AWS Lambda in Action: Event-driven serverless applications
+
 
 2017 Java 9 正式发布
 
@@ -960,11 +966,15 @@
 
 2017 Principles: Life and Work
 
+2017 Streaming Data: Understanding the real-time pipeline
+
 
 
 2018 Java 10 正式发布
 
 2018 Java 11 正式发布
+
+2018 Micronaut 1.0.1
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
@@ -975,3 +985,7 @@
 2018 Head First PMP: A Learner's Companion to Passing the Project Management Professional Exam
 
 2018 A Philosophy of Software Design
+
+2018 Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
+
+2018 Kubernetes in Action
