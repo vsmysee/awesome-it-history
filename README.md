@@ -285,6 +285,12 @@
 1992 Plan 9
 
 
+1993 R
+
+1993 Debian
+
+1993 ThoughtWorks
+
 1993 Bill Gates say: 互联网？我们没兴趣
 
 1993 Roberto Ierusalimschy,Lua
@@ -340,6 +346,8 @@
 1995 IE
 
 1995 Redhat Linux
+
+1995 Apache HTTP Server
 
 
 
@@ -435,6 +443,8 @@
 2000 Code: The Hidden Language of Computer Hardware and Software
 
 
+2001 HAProxy
+
 2001 Anders Hejlsberg 重新发明了 Java，并把它叫作 C#
 
 2001 Windows XP
@@ -476,6 +486,8 @@
 
 
 ## Spring && DDD
+
+2002 Io programming language
 
 2002 Joel Spolsky The Law of Leaky Abstractions
 
@@ -549,6 +561,10 @@
 
 2004 Minix 3
 
+2004 Selenium,ThoughtWorks
+
+2004 Markdown,John Gruber
+
 2004 Head First Design Patterns
 
 2004 Better, Faster, Lighter Java
@@ -570,14 +586,16 @@
 
 2004 Modern Compiler Implementation in C
 
+2004 Joel on Software
+
+
+2005 Mercurial
 
 2005 Linus Benedict Torvalds,Git
 
 2005 Prefactoring 《软件预构艺术》
 
 2005 Agile Web Development with Rails
-
-2005 Joel on Software
 
 2005 Refactoring to Patterns
 
@@ -635,6 +653,8 @@
 
 2007 RabbitMq
 
+2007 Heroku
+
 2007 Google,Rob Pike开始设计Go,Go于2009年11月正式宣布推出
 
 2007 第一代iPhone于2007年1月9日由时任苹果公司CEO的史蒂夫·乔布斯(Steve Jobs)发布,IOS操作系统
@@ -667,6 +687,16 @@
 2008 Chrome V8
 
 2008 Cassandra
+
+2008 Pig
+
+2008 Bitbucket
+
+2008 Sublime Text
+
+2008 New Relic
+
+2008 Stack Overflow by Jeff Atwood and Joel Spolsky.
 
 2008 Beautiful Code
 
@@ -711,6 +741,12 @@
 2009 阿里云创立
 
 2009 新浪微博
+
+2009 Mahout
+
+2009 Amazon RDS
+
+2009 Akka v0.5
 
 2009 Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior
 
@@ -774,6 +810,16 @@
 
 2011 OpenTSDB
 
+2011 NewSQL概念
+
+2011 H2O
+
+2011 Jenkins
+
+2011 Gitlab
+
+2011 Trello
+
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
 
 2011 Kafka最初是由领英开发，并随后于2011年初开源
@@ -792,6 +838,10 @@
 
 2011 The Clean Coder: A Code of Conduct for Professional Programmers
 
+
+2012 webpack
+
+2012 Julia
 
 2012 Google Spanner: Google's Globally-Distributed Database
 
@@ -825,6 +875,16 @@
 
 2013 Presto
 
+2013 Impala
+
+2013 Samza
+
+2013 Slack
+
+2013 Mesos
+
+2013 Android Studio
+
 2013 Team Geek
 
 2013 NoSQL Distilled
@@ -850,6 +910,8 @@
 
 2014 Airflow
 
+2014 crystal lang
+
 2014 Martin Fowler 与 James Lewis 共同提出了微服务的概念，定义了微服务是由以单一应用程序构成的小服务，自己拥有自己的行程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯
 
 2014 Chris Lattner,Swift大约历经4年的开发期，2014年6月发表
@@ -865,6 +927,8 @@
 2014 Serverless 云厂商AWS推出了“无服务器”的范式服务
 
 2014 Java 8发布
+
+2014 Jupyter
 
 2014 Android Studio 即基于IntelliJ IDEA的社区版本发展而成
 
@@ -885,6 +949,10 @@
 2014 Head First JavaScript Programming: A Brain-Friendly Guide
 
 
+2015 Redux
+
+2015 Keras
+
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
 2015 HTTP/2标准于2015年5月以RFC 7540正式发表，取代HTTP 1.1成为HTTP的实现标准
@@ -894,6 +962,8 @@
 2015 Grpc
 
 2015 GraphQL 规范开源
+
+2015  ECMAScript 6
 
 2015 Pinpoint 1.0.4 release
 
@@ -918,6 +988,8 @@
 ## 智能
 
 2016 TensorFlow 0.8.0版
+
+2016 ES7
 
 2016 分布式关系型数据库 TiDB 正式发布 RC1
 
@@ -950,6 +1022,8 @@
 
 2017 istio
 
+2017 ES8
+
 2017 Designing Data-Intensive Applications
 
 2017 Clean Architecture: A Craftsman's Guide to Software Structure and Design
@@ -973,6 +1047,7 @@
 2017 Streaming Data: Understanding the real-time pipeline
 
 
+2018 ES9
 
 2018 Java 10 正式发布
 
@@ -993,3 +1068,5 @@
 2018 Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
 
 2018 Kubernetes in Action
+
+2018 Flutter
