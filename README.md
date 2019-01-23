@@ -324,6 +324,8 @@
 
 1994 Donald E. Knuth,Concrete Mathematics: A Foundation for Computer Science (2nd Edition)
 
+1994 QR code
+
 
 1995 Brendan Eich,Javascript 在1995年5月仅花了十天时间就把原型设计出来了
 
