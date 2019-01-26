@@ -1,10 +1,11 @@
 # goldview
 
-上帝视角看编程的历史,计算机太年轻了，我们完全可以记住这个历史，因为她离我们太近了,本文会长期更新，包括整个历史上的
-重大技术，框架，工具，书籍和杰出的人物
+软件行业本质上是一个非常短暂和不成熟的行业，短短几十年历史所容纳的信息量是可以被整体理解的，本文旨在组织这段历史，以及跟踪当下
+当站在时间维度里审视自己的专业的时候，也许能对你和我的认知结构产生影响。
 
 
 ## 易经
+
 
 
 ## 数学危机
@@ -13,10 +14,14 @@
 
 1679 Gottfried Wilhelm Leibniz 二进制记数系统由莱布尼茨于1679年设计,在他1703年发表的文章《论只使用符号0和1的二进制算术，兼论其用途及它赋予伏羲所使用的古老图形的意义》
 
-1834 巴贝奇提出了分析机的概念，机器共分为三个部分：堆栈，运算器，控制器。他的助手， 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）为分析机编制了人类历史上第一批计算机程序。阿达和巴贝奇为计算机的发展创造了不朽的功勋，他们对计算机的预见起码超前了一个世纪以上，正是他们的辛勤努力，为后来计算机的出现奠定了坚实的基础。
+
+1834 巴贝奇提出了分析机的概念，机器共分为三个部分：堆栈，运算器，控制器。他的助手， 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）为分析机编制了人类历史上第一批计算机程序。
+阿达和巴贝奇为计算机的发展创造了不朽的功勋，他们对计算机的预见起码超前了一个世纪以上，正是他们的辛勤努力，为后来计算机的出现奠定了坚实的基础。
+
 
 
 1847 George Boole, 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
+
 
 1924 Thomas J. Watson, 沃森将CTR改名为IBM
 
@@ -116,7 +121,6 @@
 1971 Ken Thompson,ed (text editor)
 
 
-## C
 
 1972 Dennis Ritchie,Kenneth Lane Thompson  为了移植与开发UNIX操作系统，由丹尼斯·里奇与肯·汤普逊，以B语言为基础，在贝尔实验室设计、开发出来C
 
@@ -129,7 +133,6 @@
 
 1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series)
 
-## 编辑器
 
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
 
@@ -151,6 +154,8 @@
 1976 Niklaus Wirth,Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation)
 
 
+1977 Make
+
 1977 Ron Rivest,Adi Shamir,Leonard Adleman 著名的RSA算法诞生
 
 1977 Alfred Aho, Peter Weinberger, and Brian Kernighan,  AWK
@@ -163,10 +168,14 @@
 
 1979 Oracle Database
 
+1979 MVC
+
 
 1980 Alan Curtis Kay, Smalltalk
 
 1980 苹果公司 Object-C
+
+1980 Ada
 
 
 1981 微软推出来MS-DOS 1.0版
@@ -218,6 +227,12 @@
 
 1987, 华为
 
+1987 软件可靠性：度量、预测和应用（Software Reliability: Measurement, Prediction, Application）
+
+1987 模式语言
+
+
+1988 螺旋模型
 
 1988 The Design of Everyday Things
 
@@ -230,7 +245,9 @@
 1988 The Zen of Programming
 
 
-## Http
+1989 LoadRunnuer
+
+
 
 1990 Ronald Rivest, MD4
 
@@ -248,6 +265,8 @@
 
 1990 Introduction to Algorithms
 
+1990 第五项修炼
+
 
 ## Linux
 
@@ -264,6 +283,8 @@
 1991 首次发布了The Unicode Standard
 
 1991 QT
+
+1991 CORBA
 
 
 1992 Internet协会成立，简称（ISOC）
@@ -286,6 +307,8 @@
 
 
 1993 R
+
+1993 Jeff Sutherland,Scrum
 
 1993 Debian
 
@@ -351,11 +374,15 @@
 
 1995 Apache HTTP Server
 
+1995 Andrew Koenig,antipattern术语
+
 
 
 1996 Internet Explorer将iframe元素加入到HTML，支持局部刷新网页
 
 1996 Flash
+
+1996 MVP
 
 1996 CSS1
 
@@ -367,6 +394,10 @@
 
 1996 Analysis Patterns: Reusable Object Models
 
+
+1997 AOP
+
+1997 ESB
 
 1997 Grady Booch,UML
 
@@ -382,6 +413,9 @@
 
 1997 Operating Systems: Design and Implementation (Second Edition)
 
+1997 死亡之旅：超常规软件项目的开发实践
+
+
 1998 Outlook Web Access小组写成了允许客户端脚本发送HTTP请求（XMLHTTP）的第一个组件
 
 1998 Sergey Mikhaylovich Brin,Lawrence Edward Larry Page,车库内创建了Google公司
@@ -392,12 +426,15 @@
 
 1998 IPv6
 
+1998 Jmeter
+
+1998 Bugzilla
+
 1998 Kent Beck, Erich Gamma, Junit
 
 1998 Joshua Bloch,Java Collection Framework
 
 
-## Lucene
 
 1999 Niels Provos以及David Mazières, Bcrypt
 
@@ -425,12 +462,16 @@
 
 1999 Refactoring: Improving the Design of Existing Code
 
+1999 提出系统隐喻（System Metaphor）
+
 
 ## 新千年
 
 2000 java 1.3
 
 2000 POJO
+
+2000 燃尽图（burndown chart)
 
 2000 Mac OS X 的公开测试版于2000年释出
 
@@ -456,13 +497,15 @@
 2001 十七名软件开发人员在犹他州的雪鸟度假村会面，讨论这些轻量级的开发方法，并由Jeff Sutherland，Ken Schwaber和Alistair Cockburn发起，一同发布了“敏捷软件开发宣言”
 
 
-## IDE
+2001 SaaS模型出现
 
 2001 AES 高级加密标准由美国国家标准与技术研究院（NIST）发布
 
 2001 BitTorrent
 
 2001 wiki
+
+2001 Cruise Control，是第一款持续集成服务器
 
 2001 Eclipse IBM公司贡献给开源社区
 
@@ -487,7 +530,7 @@
 2001 Eric S. Raymond ,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 
 
-## Spring && DDD
+2002 Jira
 
 2002 Io programming language
 
@@ -509,13 +552,24 @@
 
 2002 Concepts in Programming Languages
 
+2002 责任驱动设计
+
+2002 SRP
+
+
+
 2003 Dave Shea推出了一个名为“CSS禅意花园”("CSS Zen Garden")的站点
 
 2003 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
+2003 Kanban
+
+2003 SMART原则
+
 
 ## Google论文
 
+2003 BDD
 
 2003 Google发布Google File System论文
 
@@ -591,6 +645,14 @@
 2004 Joel on Software
 
 
+2005 MVVM
+
+2005 Backlog
+
+2005 六边形
+
+2005 故事地图（story mapping）
+
 2005 Mercurial
 
 2005 Linus Benedict Torvalds,Git
@@ -645,7 +707,7 @@
 
 2006 Compilers: Principles, Techniques, and Tools (2nd Edition)
 
-## Iphone & Android
+## 移动物联网
 
 2007 Kindle
 
@@ -686,6 +748,8 @@
 
 2008 LXC（Linux Containers）是第一个完整实现Linux容器管理的工具
 
+2008 洋葱架构
+
 2008 Chrome V8
 
 2008 Cassandra
@@ -723,6 +787,8 @@
 2008 Head First Statistics: A Brain-Friendly Guide
 
 ## Nosql
+
+2009 持续部署（continuous deployment）
 
 2009 挖出了比特币的第一个区块,发行了最初的50个比特币
 
@@ -768,6 +834,8 @@
 
 2009 Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
 
+
+2010 DCI
 
 2010 OceanBase
 
@@ -841,6 +909,8 @@
 2011 The Clean Coder: A Code of Conduct for Professional Programmers
 
 
+2012 Clean Architecture
+
 2012 webpack
 
 2012 Julia
@@ -899,6 +969,8 @@
 
 
 ## 微服务
+
+2014 C4模型
 
 2014 在为AngularJS工作之后，Vue的作者尤雨溪开发出了这一框架
 
