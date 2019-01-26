@@ -1,23 +1,26 @@
 # goldview
 
-软件行业本质上是一个非常短暂和不成熟的行业，短短几十年历史所容纳的信息量是可以被整体理解的，本文旨在组织这段历史，以及跟踪当下
+软件行业本质上是一个非常短暂和不成熟的行业，短短几十年历史所容纳的信息量是可以被整体理解的，本文旨在组织这段历史，以及跟踪当下。
 当站在时间维度里审视自己的专业的时候，也许能对你和我的认知结构产生影响。
 
 
 ## 易经
 
+1658 在欧洲有出版物讲解
 
 
-## 数学危机
+## 数学
 
 1642 法国科学家帕斯卡（B.Pascal）发明了著名的帕斯卡机械计算机，首次确立了计算机器的概念
 
 1679 Gottfried Wilhelm Leibniz 二进制记数系统由莱布尼茨于1679年设计,在他1703年发表的文章《论只使用符号0和1的二进制算术，兼论其用途及它赋予伏羲所使用的古老图形的意义》
 
+1703 莱布尼茨得到易图
 
-1834 巴贝奇提出了分析机的概念，机器共分为三个部分：堆栈，运算器，控制器。他的助手， 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）为分析机编制了人类历史上第一批计算机程序。
-阿达和巴贝奇为计算机的发展创造了不朽的功勋，他们对计算机的预见起码超前了一个世纪以上，正是他们的辛勤努力，为后来计算机的出现奠定了坚实的基础。
 
+1834 巴贝奇提出了分析机的概念
+
+1842-1843 英国著名诗人拜伦的独生女阿达.奥古斯塔（Ada Augusta）给分析机编程
 
 
 1847 George Boole, 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
@@ -35,12 +38,13 @@
 
 1939 通用图灵机、通用递归函数、λ可定义,正式确认这三个模型是等效的
 
-1939 HP
+1939 HP公司
 
-
-## 计算机诞生
 
 1945 John von Neumann, 冯·诺伊曼与戈德斯坦、勃克斯等人，联名发表了一篇长达101页纸的报告,即计算机史上著名的“101页报告”
+
+1945 香农 密码学的数学理论
+
 
 1946 ENIAC (Electronic Numerical Integrator 和 Computer)电子数值积分计算机: 第一台真正意义上的数字电子计算机
 
@@ -50,6 +54,8 @@
 1947 Grace Hopper, 一只飞蛾误打误撞地飞到了计算机内部，从而引发了故障。从此，人们开始用“Bug”
 
 1948 C. E. Shannon,通信的数学理论
+
+1949 香农，保密系统的信息理论
 
 1950 Alan Turing,论文“计算机和智能(Computing machinery and intelligence)”
 
@@ -113,6 +119,8 @@
 
 1970 Edgar Frank Codd, 关系模型于1970年首先提出的，并配合“科德十二定律”
 
+1970 瀑布模型
+
 
 1971 史提芬·古克（Stephen A. Cook）和Leonid Levin相对独立地提出了下面的问题，即复杂度类P和NP是否是恒等的（P=NP?）
 
@@ -128,6 +136,8 @@
 
 
 1973 Robin Milner ML语言
+
+1973 Actor model
 
 1974 Zen and the Art of Motorcycle Maintenance
 
@@ -212,7 +222,7 @@
 
 1986 Design of the UNIX Operating System
 
-1986 The Tao of Programming (English and Chinese Edition)
+1986 The Tao of Programming
 
 1986 Compilers: Principles, Techniques, and Tools
 
@@ -223,9 +233,9 @@
 
 1987 Gcc
 
-1987,Prof. Andrew S. Tanenbaum  Minix,启发了Linux核心的创作
+1987 Prof. Andrew S. Tanenbaum  Minix,启发了Linux核心的创作
 
-1987, 华为
+1987 华为
 
 1987 软件可靠性：度量、预测和应用（Software Reliability: Measurement, Prediction, Application）
 
@@ -246,7 +256,6 @@
 
 
 1989 LoadRunnuer
-
 
 
 1990 Ronald Rivest, MD4
@@ -395,8 +404,6 @@
 1996 Analysis Patterns: Reusable Object Models
 
 
-1997 AOP
-
 1997 ESB
 
 1997 Grady Booch,UML
@@ -435,6 +442,7 @@
 1998 Joshua Bloch,Java Collection Framework
 
 
+1999 XP methodology
 
 1999 Niels Provos以及David Mazières, Bcrypt
 
@@ -466,6 +474,8 @@
 
 
 ## 新千年
+
+2000 Ant
 
 2000 java 1.3
 
@@ -615,6 +625,8 @@
 
 2004 Java 1.5
 
+2004 ivy
+
 2004 Minix 3
 
 2004 Selenium,ThoughtWorks
@@ -670,6 +682,7 @@
 2005 Don Syme,F#
 
 2005 世界信息峰会上，国际电信联盟发布了《ITU互联网报告2005：物联网》，其中指出“物联网”时代的来临
+
 
 ## 云计算时代开启
 
@@ -747,6 +760,8 @@
 2008 Google App Engine
 
 2008 LXC（Linux Containers）是第一个完整实现Linux容器管理的工具
+
+2008 SBT
 
 2008 洋葱架构
 
@@ -854,6 +869,8 @@
 2010 Google Dapper 大规模分布式系统的跟踪系统
 
 2010 Ipad推出
+
+2010 小米科技
 
 2010 Masterminds of Programming: Conversations with the Creators of Major Programming Languages
 
@@ -1057,6 +1074,8 @@
 
 2015 Big Data: Principles and best practices of scalable realtime data systems
 
+2015  Work Rules! Insights from Inside Google That Will Transform How You Live and Lead
+
 
 
 ## 智能
@@ -1097,6 +1116,8 @@
 2017 istio
 
 2017 ES8
+
+2017 How Google Works
 
 2017 Designing Data-Intensive Applications
 
@@ -1144,3 +1165,5 @@
 2018 Kubernetes in Action
 
 2018 Flutter
+
+2018 Powerful: Building a Culture of Freedom and Responsibility
