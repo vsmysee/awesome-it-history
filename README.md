@@ -25,6 +25,12 @@
 
 1847 George Boole, 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
 
+1865 诺基亚公司
+
+
+
+
+1900 “希尔伯特23个问题”
 
 1924 Thomas J. Watson, 沃森将CTR改名为IBM
 
@@ -67,12 +73,16 @@
 
 1956 John Backus, Peter Naur, 上下文无关文法 (又称为巴科斯-诺尔范式)
 
+1956 冒泡排序
+
 
 1957 John Backus, FORTRAN 高级语言开发成功
 
-1958 John McCarthy, Lisp 起源于公元1958年，是现今第二悠久而仍广泛使用的高阶编程语言
+1958 John McCarthy, Lisp 现今第二悠久而仍广泛使用的高阶编程语言
 
 1958 John von Neumann,计算机与人脑
+
+1959 希尔排序
 
 1960 ALGOL 是第一个结合了命令式和 λ演算的编程语言
 
@@ -179,6 +189,8 @@
 1979 Oracle Database
 
 1979 MVC
+
+1979 Computers and Intractability 计算机和不可解性
 
 
 1980 Alan Curtis Kay, Smalltalk
@@ -825,6 +837,8 @@
 
 2009 新浪微博
 
+2009 Leiningen
+
 2009 Mahout
 
 2009 Amazon RDS
@@ -906,6 +920,8 @@
 2011 Gitlab
 
 2011 Trello
+
+2011 诺基亚放弃Symbian
 
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
 
