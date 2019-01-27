@@ -78,6 +78,8 @@
 
 1957 John Backus, FORTRAN 高级语言开发成功
 
+1957 APL
+
 1958 John McCarthy, Lisp 现今第二悠久而仍广泛使用的高阶编程语言
 
 1958 John von Neumann,计算机与人脑
@@ -130,6 +132,8 @@
 1970 Edgar Frank Codd, 关系模型于1970年首先提出的，并配合“科德十二定律”
 
 1970 瀑布模型
+
+1970 Forth
 
 
 1971 史提芬·古克（Stephen A. Cook）和Leonid Levin相对独立地提出了下面的问题，即复杂度类P和NP是否是恒等的（P=NP?）
@@ -204,7 +208,10 @@
 
 1981 Gosling Emacs
 
+
 1982 Sun Microsystems
+
+1982 PostScript
 
 1983 五笔字型汉字输入法通过鉴定
 
@@ -588,6 +595,8 @@
 
 2003 SMART原则
 
+2003 Nemerle
+
 
 ## Google论文
 
@@ -732,6 +741,8 @@
 
 2006 Compilers: Principles, Techniques, and Tools (2nd Edition)
 
+2006 Programming Language Fundamentals by Example
+
 ## 移动物联网
 
 2007 Kindle
@@ -812,6 +823,8 @@
 2008 Head First Software Development: A Learner's Companion to Software Development
 
 2008 Head First Statistics: A Brain-Friendly Guide
+
+2008 Thinking in Systems
 
 ## Nosql
 
@@ -898,7 +911,9 @@
 
 2010 DSLs in Action
 
-2010 Real-World Functional Programming: With Examples in F# and C# 
+2010 Real-World Functional Programming: With Examples in F# and C#
+
+2010 Hackers: Heroes of the Computer Revolution
 
 
 ## 大数据
@@ -967,6 +982,8 @@
 2012 Operating System Concepts
 
 2012 Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages
+
+2012 Masters of Doom
 
 ## Docker时代
 
