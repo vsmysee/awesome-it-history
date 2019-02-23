@@ -28,8 +28,6 @@
 1865 诺基亚公司
 
 
-
-
 1900 “希尔伯特23个问题”
 
 1924 Thomas J. Watson, 沃森将CTR改名为IBM
@@ -149,6 +147,8 @@
 1972 Alain Colmerauer与Phillipe Roussel Prolog语言
 
 
+1973 计算机程序设计艺术第二版
+
 1973 Robin Milner ML语言
 
 1973 Actor model
@@ -184,7 +184,14 @@
 
 1977 Alfred Aho, Peter Weinberger, and Brian Kernighan,  AWK
 
+
+1978 Donald Knuth TeX
+
 1978 The C Programming Language
+
+
+
+
 
 1979 Bjarne Stroustrup C++ (Stroustrup）工作起于1979年的C with Classes
 
@@ -213,6 +220,8 @@
 
 1982 PostScript
 
+1983 GNU
+
 1983 五笔字型汉字输入法通过鉴定
 
 1983 在因特网的前身（ARPA网）中，TCP/IP取代旧的网络控制协议（NCP，Network Control Protocol），从而成为今天的互联网的基石
@@ -226,6 +235,10 @@
 
 1984 CommonLisp
 
+1984 Donald E. Knuth提出Literate programming
+
+
+1985 自由软件基金会
 
 1985 Intel 公司推出了计算机历史上有着举足轻重地位的80386处理器，这也是intel公司的第一枚32位处理器
 
@@ -313,6 +326,9 @@
 1991 QT
 
 1991 CORBA
+
+1991 Grady Booch 提出持续集成（CI）
+
 
 
 1992 Internet协会成立，简称（ISOC）
@@ -445,6 +461,9 @@
 
 1997 IBM 深蓝战胜象棋大师
 
+1997 计算机程序设计艺术第三版
+
+
 
 1998 VMware
 
@@ -526,6 +545,8 @@
 
 2000 Code: The Hidden Language of Computer Hardware and Software
 
+
+2001 ibatis
 
 2001 HAProxy
 
@@ -730,6 +751,10 @@
 
 ## 云计算时代开启
 
+2006 G Suite
+
+2006 AMQP
+
 2006  John Resig,Jquery 在2006年1月的BarCamp NYC上发布第一个版本
 
 2006  “DIV+CSS”布局逐步取代缺乏灵活性的传统表格布局
@@ -768,11 +793,15 @@
 
 ## 移动物联网
 
+2007 DevOps
+
 2007 Kindle
 
 2007 Neo4j
 
 2007 Hbase诞生
+
+2007 Linux基金会
 
 2007 RabbitMq
 
@@ -902,7 +931,15 @@
 2009 Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
 
 
+2010 Azure
+
+2010 Google Cloud Storage
+
+2010 Google BigQuery and Prediction API
+
 2010 DCI
+
+2010 OpenStack
 
 2010 OceanBase
 
@@ -943,7 +980,6 @@
 
 ## 大数据
 
-2011 DevOps
 
 2011 WeiChat
 
@@ -952,6 +988,8 @@
 2011 OpenTSDB
 
 2011 NewSQL概念
+
+2011 Google Cloud SQL
 
 2011 H2O
 
@@ -962,6 +1000,8 @@
 2011 Trello
 
 2011 Ceylon language
+
+2011 Cloud Foundry
 
 2011 诺基亚放弃Symbian
 
@@ -983,6 +1023,8 @@
 
 2011 The Clean Coder: A Code of Conduct for Professional Programmers
 
+
+2012 Google Compute Engine
 
 2012 Clean Architecture
 
@@ -1051,6 +1093,8 @@
 
 2014 C4模型
 
+2014 Google Cloud Dataflow
+
 2014 在为AngularJS工作之后，Vue的作者尤雨溪开发出了这一框架
 
 2014 Kubernetes 由谷歌在2014年首次对外宣布
@@ -1083,6 +1127,8 @@
 
 2014 Jupyter
 
+2014 .NET基金会
+
 2014 Android Studio 即基于IntelliJ IDEA的社区版本发展而成
 
 2014 GitHub Open Sources Its Atom Text Editor
@@ -1101,6 +1147,10 @@
 
 2014 Head First JavaScript Programming: A Brain-Friendly Guide
 
+
+2015 Cloud Native Computing Foundation
+
+2015 OCI
 
 2015 Redux
 
@@ -1142,6 +1192,8 @@
 
 ## 智能
 
+2016 Google Cloud Functions
+
 2016 TensorFlow 0.8.0版
 
 2016 AlphaGo战胜李世石
@@ -1170,6 +1222,13 @@
 
 2016 AWS Lambda in Action: Event-driven serverless applications
 
+2016 Infrastructure as Code: Managing Servers in the Cloud
+
+
+
+2017 Google Cloud Spanner
+
+2017 Google Cloud IoT
 
 2017 AlphaGo战胜柯洁
 
@@ -1208,6 +1267,8 @@
 2017 Streaming Data: Understanding the real-time pipeline
 
 
+2018 Google Cloud Memorystore
+
 2018 ES9
 
 2018 Java 10 正式发布
@@ -1233,3 +1294,9 @@
 2018 Flutter
 
 2018 Powerful: Building a Culture of Freedom and Responsibility
+
+2018 Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists
+
+
+
+2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
