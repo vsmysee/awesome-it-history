@@ -424,6 +424,8 @@
 
 
 
+1996 Servlet 1.0
+
 1996 Internet Explorer将iframe元素加入到HTML，支持局部刷新网页
 
 1996 Flash
@@ -440,6 +442,8 @@
 
 1996 Analysis Patterns: Reusable Object Models
 
+
+1997 Servlet 2.0
 
 1997 ESB
 
@@ -465,6 +469,8 @@
 
 
 
+1998 JMS
+
 1998 VMware
 
 1998 Outlook Web Access小组写成了允许客户端脚本发送HTTP请求（XMLHTTP）的第一个组件
@@ -487,6 +493,8 @@
 
 1998 Joshua Bloch,Java Collection Framework
 
+
+1999 EJB
 
 1999 Jboss
 
@@ -545,6 +553,8 @@
 
 2000 Code: The Hidden Language of Computer Hardware and Software
 
+
+2001 Servlet 2.3
 
 2001 ibatis
 
@@ -622,6 +632,8 @@
 
 2002 Expert One-on-One J2EE Design and Development
 
+
+2003 Servlet 2.4
 
 2003 Dave Shea推出了一个名为“CSS禅意花园”("CSS Zen Garden")的站点
 
@@ -718,6 +730,8 @@
 2004 Joel on Software
 
 
+2005 Servlet 2.5
+
 2005 Grails
 
 2005 MVVM
@@ -750,6 +764,8 @@
 
 
 ## 云计算时代开启
+
+2006 EJB 3.0
 
 2006 G Suite
 
@@ -882,6 +898,8 @@
 
 ## Nosql
 
+2009 Servlet 3.0
+
 2009 持续部署（continuous deployment）
 
 2009 挖出了比特币的第一个区块,发行了最初的50个比特币
@@ -930,6 +948,8 @@
 
 2009 Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
 
+
+2010 DDD Framework Axon 0.3
 
 2010 Azure
 
@@ -1055,6 +1075,14 @@
 2012 Masters of Doom
 
 ## Docker时代
+
+2013 Servlet 3.1
+
+2013 EJB 3.2
+
+2013 JMS 2.0
+
+2013 SparkJava
 
 2013 Docker
 
@@ -1226,6 +1254,8 @@
 
 
 
+2017 Servlet 4.0
+
 2017 Google Cloud Spanner
 
 2017 Google Cloud IoT
@@ -1276,6 +1306,8 @@
 2018 Java 11 正式发布
 
 2018 Micronaut 1.0.1
+
+2018 Knative
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
