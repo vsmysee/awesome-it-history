@@ -244,6 +244,8 @@
 
 1985 Microsoft Windows发布
 
+1985 俄罗斯方块
+
 
 1985 Koblitz和Miller各自独立提出了著名的椭圆曲线加密（ECC）算法
 
@@ -349,6 +351,8 @@
 
 1992 Plan 9
 
+1992 OpenGL
+
 
 1993 R
 
@@ -381,6 +385,10 @@
 
 1994 第一个版本的网页浏览器Mosaic Netscape 0.9于1994年底发布
 
+1994 极品飞车
+
+1994 魔兽争霸
+
 1994 Jeffrey Preston Jorgensen,于1994年7月创建了Amazon
 
 1994 Essential Client/Server Survival Guide
@@ -401,6 +409,10 @@
 1995 HTML 2.0
 
 1995 Delphi
+
+1995 仙剑奇侠传
+
+1995 实况足球
 
 1995 人月神话发行纪念版
 
@@ -438,6 +450,8 @@
 
 1996 Netbeans
 
+1996 红警游戏
+
 1996 Steve McConnell,Rapid Development
 
 1996 Analysis Patterns: Reusable Object Models
@@ -454,6 +468,8 @@
 1997 Mac OS 8于1997年发布
 
 1997 Netflix
+
+1997 网易
 
 1997 Aspect-oriented programming论文
 
@@ -485,6 +501,16 @@
 
 1998 IPv6
 
+1998 星际争霸
+
+1998 搜狐
+
+1998 京东
+
+1998 腾讯
+
+1998 新郎
+
 1998 Jmeter
 
 1998 Bugzilla
@@ -497,6 +523,10 @@
 1999 EJB
 
 1999 Jboss
+
+1999 阿里巴巴
+
+1999 反恐精英
 
 1999 The Apache Software Foundation
 
@@ -537,7 +567,11 @@
 
 2000 java 1.3
 
+2000 百度
+
 2000 POJO
+
+2000 模拟人生
 
 2000 燃尽图（burndown chart)
 
@@ -553,6 +587,8 @@
 
 2000 Code: The Hidden Language of Computer Hardware and Software
 
+
+2001 大话西游
 
 2001 Servlet 2.3
 
@@ -576,6 +612,8 @@
 2001 BitTorrent
 
 2001 wiki
+
+2001 热血传奇
 
 2001 Cruise Control，是第一款持续集成服务器
 
@@ -644,6 +682,8 @@
 2003 SMART原则
 
 2003 Nemerle
+
+2003 梦幻西游
 
 
 ## Google论文
@@ -740,6 +780,12 @@
 
 2005 六边形架构
 
+2005 魔兽世界
+
+2005 征途
+
+2005 劲舞团
+
 2005 故事地图（story mapping）
 
 2005 Mercurial
@@ -767,9 +813,15 @@
 
 2006 EJB 3.0
 
+2006 Parallels Desktop
+
 2006 G Suite
 
 2006 AMQP
+
+2006 跑跑卡丁车
+
+2006 DOTA
 
 2006  John Resig,Jquery 在2006年1月的BarCamp NYC上发布第一个版本
 
@@ -815,6 +867,8 @@
 
 2007 Neo4j
 
+2007 VirtualBox
+
 2007 Hbase诞生
 
 2007 Linux基金会
@@ -822,6 +876,8 @@
 2007 RabbitMq
 
 2007 Heroku
+
+2007 穿越火线
 
 2007 Google,Rob Pike开始设计Go,Go于2009年11月正式宣布推出
 
@@ -838,6 +894,8 @@
 2007 Code Quality: The Open Source Perspective by Diomidis Spinellis
 
 2007 Computability and Logic
+
+2007 I Am a Strange Loop by  Douglas R. Hofstadter
 
 
 ## Github
@@ -921,6 +979,10 @@
 2009 阿里云创立
 
 2009 新浪微博
+
+2009 英雄联盟
+
+2009 植物大战僵尸
 
 2009 Leiningen
 
@@ -1116,6 +1178,8 @@
 
 2013 Systems Performance: Enterprise and the Cloud
 
+2013 Surfaces and Essences: Analogy as the Fuel and Fire of Thinking by Douglas Hofstadter
+
 
 ## 微服务
 
@@ -1183,6 +1247,8 @@
 2015 Redux
 
 2015 Keras
+
+2015 王者荣耀
 
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
@@ -1253,6 +1319,8 @@
 2016 Infrastructure as Code: Managing Servers in the Cloud
 
 
+
+2017 绝地求生
 
 2017 Servlet 4.0
 
