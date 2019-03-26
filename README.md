@@ -140,6 +140,8 @@
 
 1971 Ken Thompson,ed (text editor)
 
+1971 The psychology of computer programming
+
 
 
 1972 Dennis Ritchie,Kenneth Lane Thompson  为了移植与开发UNIX操作系统，由丹尼斯·里奇与肯·汤普逊，以B语言为基础，在贝尔实验室设计、开发出来C
@@ -156,6 +158,8 @@
 1974 Zen and the Art of Motorcycle Maintenance
 
 1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series)
+
+1974 The Little Schemer
 
 
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
@@ -220,6 +224,10 @@
 
 1982 PostScript
 
+1982 How to Solve it by Computer
+
+
+
 1983 GNU
 
 1983 五笔字型汉字输入法通过鉴定
@@ -259,6 +267,8 @@
 1986 The Tao of Programming
 
 1986 Compilers: Principles, Techniques, and Tools
+
+1986 Introduction to functional programming
 
 
 1987 Larry Wall,Perl
@@ -353,6 +363,8 @@
 
 1992 OpenGL
 
+1992 UNIX环境高级编程
+
 
 1993 R
 
@@ -379,6 +391,8 @@
 1993 Object-Oriented Design and Analysis with Applications Grady Booch
 
 1993 The Formal Semantics of Programming Languages
+
+1993 Writing solid code
 
 
 ## 浏览器
@@ -641,6 +655,7 @@
 
 2001 Eric S. Raymond ,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
 
+2001 Writing Secure Code
 
 2002 Jira
 
@@ -669,6 +684,8 @@
 2002 SRP
 
 2002 Expert One-on-One J2EE Design and Development
+
+2002 Facts and fallacies of software engineering
 
 
 2003 Servlet 2.4
@@ -1136,6 +1153,8 @@
 
 2012 Masters of Doom
 
+2012 Think Like a Programmer
+
 ## Docker时代
 
 2013 Servlet 3.1
@@ -1238,6 +1257,8 @@
 2014 Modern Operating Systems (4th Edition)
 
 2014 Head First JavaScript Programming: A Brain-Friendly Guide
+
+2014 Becoming a Better Programmer
 
 
 2015 Cloud Native Computing Foundation
