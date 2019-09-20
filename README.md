@@ -301,6 +301,8 @@
 
 1989 LoadRunnuer
 
+1989 OMG
+
 
 1990 Ronald Rivest, MD4
 
@@ -415,7 +417,9 @@
 
 1994 Donald E. Knuth,Concrete Mathematics: A Foundation for Computer Science (2nd Edition)
 
-1994 QR code
+1994 QR 
+
+1994 Show-stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
 
 
 1995 Brendan Eich,Javascript 在1995年5月仅花了十天时间就把原型设计出来了
@@ -805,6 +809,8 @@
 
 2005 故事地图（story mapping）
 
+2005 BPMN
+
 2005 Mercurial
 
 2005 Linus Benedict Torvalds,Git
@@ -1060,6 +1066,8 @@
 
 2010 小米科技
 
+2010 Activiti
+
 2010 Masterminds of Programming: Conversations with the Creators of Major Programming Languages
 
 2010 The Design of Design
@@ -1107,6 +1115,8 @@
 2011 大家把Twitter Blueprint改名为Bootstrap，并且在2011年8月19日将其作为开源项目发布
 
 2011 Kafka最初是由领英开发，并随后于2011年初开源
+
+2011 BPMN 2.0
 
 2011 Nathan Marz,Storm 最初是由Nathan Marz及其团队创建于BackType
 
@@ -1186,6 +1196,8 @@
 2013 Mesos
 
 2013 Android Studio
+
+2013 Camunda
 
 2013 Team Geek
 
@@ -1319,6 +1331,8 @@
 
 2016 Electron 1.0版本发布
 
+2016 Flowable
+
 2016 First public release of Pulsar
 
 2016 Beam
@@ -1419,5 +1433,6 @@
 2018 Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists
 
 
+2019 zeebe
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
