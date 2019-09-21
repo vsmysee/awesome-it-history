@@ -179,6 +179,8 @@
 
 1976 Edsger W. Dijkstra ,A Discipline of Programming
 
+1976 Diffie-Hellman
+
 1976 Niklaus Wirth,Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation)
 
 
@@ -452,6 +454,8 @@
 
 1995 Andrew Koenig,antipattern术语
 
+1995 SSL 2.0
+
 
 
 1996 Servlet 1.0
@@ -559,6 +563,8 @@
 1999 定义了HTTP协议中现今广泛使用的一个版本——HTTP 1.1
 
 1999 HTML 4.01
+
+1999 TLS 1.0
 
 1999 inversion of control (IoC)
 
@@ -846,6 +852,8 @@
 
 2006 DOTA
 
+2006 TLS 1.1
+
 2006  John Resig,Jquery 在2006年1月的BarCamp NYC上发布第一个版本
 
 2006  “DIV+CSS”布局逐步取代缺乏灵活性的传统表格布局
@@ -944,6 +952,8 @@
 2008 Cassandra
 
 2008 Pig
+
+2008 TLS 1.2
 
 2008 Bitbucket
 
@@ -1407,6 +1417,8 @@
 2018 Java 10 正式发布
 
 2018 Java 11 正式发布
+
+2018 TLS 1.3
 
 2018 Micronaut 1.0.1
 
