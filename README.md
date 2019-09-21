@@ -209,6 +209,8 @@
 
 1979 Computers and Intractability 计算机和不可解性
 
+1979 The Art of Software Testing
+
 
 1980 Alan Curtis Kay, Smalltalk
 
@@ -777,6 +779,8 @@
 
 2004 Hibernate in Action
 
+2004 Extreme Programming Explained: Embrace Change, 2nd Edition
+
 
 2004 Code Reading: The Open Source Perspective
 
@@ -795,6 +799,8 @@
 2004 Modern Compiler Implementation in C
 
 2004 Joel on Software
+
+2004 Working Effectively with Legacy Code
 
 
 2005 Servlet 2.5
@@ -890,6 +896,8 @@
 
 2006 Programming Language Fundamentals by Example
 
+2006 Chris Richardson POJOs in Action: Developing Enterprise Applications with Lightweight Frameworks
+
 ## 移动物联网
 
 2007 DevOps
@@ -927,6 +935,8 @@
 2007 Computability and Logic
 
 2007 I Am a Strange Loop by  Douglas R. Hofstadter
+
+2007 The Art of Software Testing
 
 
 ## Github
@@ -1151,6 +1161,8 @@
 
 2012 Julia
 
+2012 微信公众号
+
 2012 Google Spanner: Google's Globally-Distributed Database
 
 2012 Werner Vogels,DynamoDB was announced by Amazon CTO
@@ -1325,6 +1337,8 @@
 
 2015  Work Rules! Insights from Inside Google That Will Transform How You Live and Lead
 
+2015 Amazon Web Services in Action
+
 
 
 ## 智能
@@ -1385,6 +1399,8 @@
 
 2017 ES8
 
+2017 微信小程序
+
 2017 How Google Works
 
 2017 Designing Data-Intensive Applications
@@ -1408,6 +1424,10 @@
 2017 Principles: Life and Work
 
 2017 Streaming Data: Understanding the real-time pipeline
+
+2017 Serverless Architectures on AWS: With examples using AWS Lambda
+
+2018 Modern Java in Action: Lambdas, streams, functional and reactive programming
 
 
 2018 Google Cloud Memorystore
@@ -1443,6 +1463,10 @@
 2018 Powerful: Building a Culture of Freedom and Responsibility
 
 2018 Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists
+
+2018 Chris Richardson Microservices Patterns: With examples in Java
+
+2018 Technology Strategy Patterns: Architecture as Strategy
 
 
 2019 zeebe
