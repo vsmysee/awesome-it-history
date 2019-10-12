@@ -158,6 +158,8 @@
 
 1973 Actor model
 
+1974 TCP
+
 1974 Zen and the Art of Motorcycle Maintenance
 
 1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series)
@@ -202,6 +204,8 @@
 
 1978 Intel 8086 CPU
 
+1978 CSP
+
 
 
 
@@ -221,6 +225,9 @@
 1980 Alan Curtis Kay, Smalltalk
 
 1980 苹果公司 Object-C
+
+1980 UDP
+
 
 1980 Ada
 
@@ -245,6 +252,8 @@
 1983 在因特网的前身（ARPA网）中，TCP/IP取代旧的网络控制协议（NCP，Network Control Protocol），从而成为今天的互联网的基石
 
 1983 UNIX操作系统和C语言 图灵奖
+
+1983 IPv4
 
 1983 Brian W. Kernighan  The Unix Programming Environment 
 
@@ -439,6 +448,8 @@
 
 1994 Fallacies of distributed computing
 
+1994 Language-oriented programming
+
 1994 Show-stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
 
 
@@ -474,6 +485,8 @@
 
 1995 SSL 2.0
 
+1995 SSH-1
+
 
 
 1996 Servlet 1.0
@@ -485,6 +498,8 @@
 1996 MVP
 
 1996 CSS1
+
+1996 Hejlsberg left Borland and joined Microsoft.
 
 1996 MySQL 1.0发布, 在小范围内使用
 
@@ -512,6 +527,8 @@
 1997 Netflix
 
 1997 网易
+
+1997 Visual Studio
 
 1997 Aspect-oriented programming论文
 
@@ -615,6 +632,8 @@
 
 2000 POJO
 
+2000 .NET
+
 2000 模拟人生
 
 2000 燃尽图（burndown chart)
@@ -670,6 +689,8 @@
 2001 D language
 
 2001 Jruby
+
+2001 Manifesto for Agile Software Developm
 
 2001 Don't Make Me Think! A Common Sense Approach to Web Usability, by Steve Krug
 
@@ -847,6 +868,8 @@
 
 2005 Mercurial
 
+2005 fluent interface
+
 2005 Linus Benedict Torvalds,Git
 
 2005 Prefactoring 《软件预构艺术》
@@ -881,6 +904,12 @@
 2006 DOTA
 
 2006 TLS 1.1
+
+2006 SDN
+
+2006 SSH-2
+
+2006 Power Shell
 
 2006  John Resig,Jquery 在2006年1月的BarCamp NYC上发布第一个版本
 
@@ -951,6 +980,8 @@
 2007 KVM于2007年2月5日被导入Linux 2.6.20核心中
 
 2007 Flume
+
+2007 LINQ
 
 2007 Hans Dockter,Gradle
 
@@ -1158,8 +1189,6 @@
 
 2011 Ceylon language
 
-2011 Cloud 
-
 2011 Druid
 
 2011 诺基亚放弃Symbian
@@ -1169,6 +1198,8 @@
 2011 Kafka最初是由领英开发，并随后于2011年初开源
 
 2011 BPMN 2.0
+
+2011 Open Networking Foundation
 
 2011 Nathan Marz,Storm 最初是由Nathan Marz及其团队创建于BackType
 
@@ -1305,6 +1336,8 @@
 2014 Jupyter
 
 2014 .NET基金会
+
+2014 The Reactive Manifesto
 
 2014 Android Studio 即基于IntelliJ IDEA的社区版本发展而成
 
