@@ -435,6 +435,8 @@
 
 1994 QR 
 
+1994 Fallacies of distributed computing
+
 1994 Show-stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
 
 
@@ -1084,6 +1086,8 @@
 
 2010 OceanBase
 
+2010 Mybatis
+
 2010 Jeremy Ashkenas,Backbone.js
 
 2010 Shay Banon,Elasticsearch
@@ -1499,5 +1503,7 @@
 
 
 2019 zeebe
+
+2019 Joe Armstrong去世
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
