@@ -359,6 +359,8 @@
 
 1991 Grady Booch 提出持续集成（CI）
 
+1991 Quality Software Management:Systems Thinking
+
 
 
 1992 Internet协会成立，简称（ISOC）
@@ -493,6 +495,8 @@
 1996 Steve McConnell,Rapid Development
 
 1996 Analysis Patterns: Reusable Object Models
+
+1996 Bringing Design to Software
 
 
 1997 Servlet 2.0
@@ -713,6 +717,8 @@
 
 2002 Facts and fallacies of software engineering
 
+2002 Computer Systems: A Programmer's Perspective
+
 
 2003 Servlet 2.4
 
@@ -815,6 +821,8 @@
 2004 Joel on Software
 
 2004 Working Effectively with Legacy Code
+
+2004 Applying UML and Patterns
 
 
 2005 Servlet 2.5
