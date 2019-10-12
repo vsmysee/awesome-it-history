@@ -164,6 +164,8 @@
 
 1974 The Little Schemer
 
+1974 Brian W. Kernighan  The Elements of Programming Style 
+
 
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
 
@@ -244,6 +246,8 @@
 
 1983 UNIX操作系统和C语言 图灵奖
 
+1983 Brian W. Kernighan  The Unix Programming Environment 
+
 
 ## 个人电脑
 
@@ -307,6 +311,8 @@
 1988 由 23岁研究生罗伯特.莫里斯（R.T.Morris）编制的“蠕虫”病毒在互联网上大规模发作，这也是互联网第一次遭受病毒的侵袭，从此，计算机病毒逐渐传播开来
 
 1988 The Zen of Programming
+
+1988  Brian W. Kernighan  The AWK Programming Language
 
 
 1989 LoadRunnuer
@@ -1357,6 +1363,7 @@
 
 2015 Amazon Web Services in Action
 
+2015 The Go Programming Language
 
 
 ## 智能
