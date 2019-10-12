@@ -996,6 +996,8 @@
 
 ## Github
 
+2008 3G
+
 2008 SpringSource
 
 2008 GitHub平台于2007年10月1日开始开发。网站于2008年2月以beta版本开始上线，4月份正式上线
@@ -1166,6 +1168,7 @@
 
 ## 大数据
 
+2011 4G
 
 2011 WeiChat
 
@@ -1284,6 +1287,8 @@
 
 2013 Camunda
 
+2013 Ethereum
+
 2013 Team Geek
 
 2013 NoSQL Distilled
@@ -1370,6 +1375,8 @@
 
 2015 王者荣耀
 
+2015 Solidity 智能合约语言
+
 2015 OnePlus成为第一家利用虚拟现实推出产品的公司
 
 2015 HTTP/2标准于2015年5月以RFC 7540正式发表，取代HTTP 1.1成为HTTP的实现标准
@@ -1434,6 +1441,8 @@
 2016 envoy
 
 2016 Deep Learning
+
+2016 Solr 6 支持sql
 
 2016 Site Reliability Engineering
 
@@ -1543,8 +1552,13 @@
 2018 Technology Strategy Patterns: Architecture as Strategy
 
 
+
+2019 5G
+
 2019 zeebe
 
 2019 Joe Armstrong去世
+
+2019 facebook发布Libra加密货币
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
