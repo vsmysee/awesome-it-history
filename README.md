@@ -123,6 +123,9 @@
 1968  Niklaus Emil Wirth ,Pascal, 一个有影响的面向对象和面向过程编程语言
 
 
+1969 AMD
+
+
 1970 Unix操作系统在20世纪60年代构思完成并实现，并首次发布
 
 1970 Guy Lewis Steele Jr, Scheme
@@ -195,6 +198,7 @@
 
 1978 The C Programming Language
 
+1978 Intel 8086 CPU
 
 
 
@@ -257,6 +261,8 @@
 1985 Microsoft Windows发布
 
 1985 俄罗斯方块
+
+1985 80386
 
 
 1985 Koblitz和Miller各自独立提出了著名的椭圆曲线加密（ECC）算法
@@ -926,6 +932,8 @@
 
 2007 Groovy 1.0于2007年1月2日发布，并于2012年7月发布了Groovy 2.0
 
+2007 KVM于2007年2月5日被导入Linux 2.6.20核心中
+
 2007 Flume
 
 2007 Hans Dockter,Gradle
@@ -1035,6 +1043,8 @@
 
 2009 Akka v0.5
 
+2009 Hazelcast
+
 2009 Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior
 
 2009 Real World Haskell
@@ -1122,13 +1132,17 @@
 
 2011 Jenkins
 
+2011 OpenShift
+
 2011 Gitlab
 
 2011 Trello
 
 2011 Ceylon language
 
-2011 Cloud Foundry
+2011 Cloud 
+
+2011 Druid
 
 2011 诺基亚放弃Symbian
 
@@ -1313,6 +1327,10 @@
 
 2015 Grpc
 
+2015 Kong
+
+2015 Ignite
+
 2015 GraphQL 规范开源
 
 2015  ECMAScript 6
@@ -1361,6 +1379,8 @@
 
 2016 Beam
 
+2016 envoy
+
 2016 Deep Learning
 
 2016 Site Reliability Engineering
@@ -1396,6 +1416,8 @@
 2017 Service Mesh
 
 2017 istio
+
+2017 pulumi
 
 2017 ES8
 
