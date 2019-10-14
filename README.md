@@ -347,7 +347,7 @@
 
 1988 The Zen of Programming
 
-1988  Brian W. Kernighan  The AWK Programming Language
+1988  Brian W. Kernighan  <<The AWK Programming Language>>
 
 
 1989 LoadRunnuer
