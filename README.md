@@ -543,6 +543,7 @@
 1997 计算机程序设计艺术第三版
 
 
+1998 PayPal
 
 1998 JMS
 
@@ -781,6 +782,7 @@
 2003 Eric S. Raymond,The Art of UNIX Programming
 
 
+2004 Alipay
 
 2004  Doug Lea,Tiger
 
