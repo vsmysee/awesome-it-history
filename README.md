@@ -1,4 +1,4 @@
-# goldview
+# 目的
 
 软件行业本质上是一个非常短暂和不成熟的行业，短短几十年历史所容纳的信息量是可以被整体理解的，本文旨在组织这段历史，以及跟踪当下。
 当站在时间维度里审视自己的专业的时候，也许能对你和我的认知结构产生影响。
@@ -26,6 +26,10 @@
 1847 George Boole, 乔治·布尔出版的一个小册子《逻辑的数学分析》中介入了代数逻辑系统
 
 1865 诺基亚公司
+
+1892 大O符号
+
+1877 AT&T公司
 
 
 1900 “希尔伯特23个问题”
@@ -66,6 +70,8 @@
 1951 Stephen Kleene, 一位名叫Stephen Kleene的数学科学家，他在Warren McCulloch和Walter Pitts早期工作的基础之上，发表了一篇题目是《神经网事件的表示法》的论文,利用称之为正则集合的数学符号来描述此模型，引入了正则表达式的概念
 
 1952 Grace Murray Hopper, 第一个编译器是由美国女性计算机科学家葛丽丝·霍普（）于1952年为A-0系统编写的
+
+1954 图灵逝世
 
 1956 人工智能被确立为一门学科
 
@@ -125,6 +131,8 @@
 
 1969 AMD
 
+1969 美国国防部 ARPANET网络,副产品是TCP,IP
+
 
 1970 Unix操作系统在20世纪60年代构思完成并实现，并首次发布
 
@@ -158,6 +166,8 @@
 
 1973 Actor model
 
+1973 ARPANET扩展为互联网，接入了英国和挪威的计算机
+
 1974 TCP
 
 1974 Zen and the Art of Motorcycle Maintenance
@@ -183,6 +193,8 @@
 1976 Steve jobs 成立苹果计算机公司
 
 1976 DES 被美国联邦政府的国家标准局确定为联邦资料处理标准
+
+1976 Xerox设计了以太网
 
 1976 Edsger W. Dijkstra ,A Discipline of Programming
 
@@ -241,6 +253,10 @@
 
 1982 PostScript
 
+1982 定义了smtp电子邮件协议
+
+1982 TCP/IP协议被标准化，正式提出Internet（互联网）的概念：世界范围内完全互联的TCP/IP网络
+
 1982 How to Solve it by Computer
 
 
@@ -255,12 +271,16 @@
 
 1983 IPv4
 
+1983 定义了DNS
+
 1983 Brian W. Kernighan  The Unix Programming Environment 
 
 
 ## 个人电脑
 
 1984 苹果电脑（今 苹果公司）发布了其第一台Macintosh个人电脑
+
+1984 Cisco
 
 1984 CommonLisp
 
@@ -276,6 +296,8 @@
 1985 俄罗斯方块
 
 1985 80386
+
+1985 FTP
 
 
 1985 Koblitz和Miller各自独立提出了著名的椭圆曲线加密（ECC）算法
