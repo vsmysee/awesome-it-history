@@ -273,6 +273,8 @@
 
 1983 定义了DNS
 
+1983 CSV
+
 1983 Brian W. Kernighan  The Unix Programming Environment 
 
 
@@ -336,6 +338,8 @@
 1988 The Design of Everyday Things
 
 1988 PostgreSQL
+
+1988 TCL
 
 1988 C Programming Language, 2nd Edition
 
@@ -591,7 +595,7 @@
 
 1998 腾讯
 
-1998 新郎
+1998 新浪
 
 1998 Jmeter
 
@@ -659,7 +663,9 @@
 
 2000 模拟人生
 
-2000 燃尽图（burndown chart)
+2000 燃尽图（burndown chart
+
+2000 kqueue
 
 2000 Mac OS X 的公开测试版于2000年释出
 
@@ -685,6 +691,8 @@
 2001 Anders Hejlsberg 重新发明了 Java，并把它叫作 C#
 
 2001 Windows XP
+
+2001 google Protobuf
 
 2001 Gavin King,澳大利亚墨尔本一位27岁的程序员 这一年的11月，Hibernate的第一个版本发布了
 
@@ -1550,6 +1558,8 @@
 2018 Micronaut 1.0.1
 
 2018 Knative
+
+2018 spring data jdbc 1.0.0
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
