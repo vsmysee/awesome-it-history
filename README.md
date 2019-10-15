@@ -17,6 +17,12 @@
 
 1703 莱布尼茨得到易图
 
+1725 法国纺织机械师布乔（B.Bouchon）发明了“穿孔纸带”的构想。
+
+
+1805 法国机械师杰卡德（J.Jacquard）根据布乔“穿孔纸带”的构想完成了“自动提花编织机”的设计制作，在后来电子计算机开始发展的最初几年中，在多款著名计算机中我们均能找到自动提花机的身影。
+
+
 
 1834 巴贝奇提出了分析机的概念
 
@@ -36,7 +42,13 @@
 
 1924 Thomas J. Watson, 沃森将CTR改名为IBM
 
+1928 Motorola
+
 1930 Kurt Friedrich Gödel, 宣布其哥德尔不完备定理，引起当时重要数学家如冯·诺伊曼和希尔伯特等的重视
+
+## 机器
+
+1930 美国科学家范内瓦·布什造出世界上首台模拟电子计算机
 
 1933 Alonzo Church, 在1933年就搞出来一套以纯λ演算为基础的逻辑，以期对数学进行形式化描述
 
@@ -54,7 +66,7 @@
 1945 香农 密码学的数学理论
 
 
-1946 ENIAC (Electronic Numerical Integrator 和 Computer)电子数值积分计算机: 第一台真正意义上的数字电子计算机
+1946 ENIAC (Electronic Numerical Integrator 和 Computer)电子数值积分计算机: 第一台真正意义上的数字电子计算机,占地170平方米，耗电150千瓦，造价48万美元
 
 
 ## 编程
@@ -72,6 +84,8 @@
 1952 Grace Murray Hopper, 第一个编译器是由美国女性计算机科学家葛丽丝·霍普（）于1952年为A-0系统编写的
 
 1954 图灵逝世
+
+1954 TRADIC IBM公司制造的第一台使用晶体管的计算机
 
 1956 人工智能被确立为一门学科
 
@@ -105,6 +119,8 @@
 
 
 1965 GordonMoore,Moore定律
+
+1965 DEC 公司推出了 PDP8 型计算机,标志着小型机时代的到来
 
 ## 结构化
 
@@ -151,7 +167,7 @@
 
 1971 Ken Thompson,ed (text editor)
 
-1971 The psychology of computer programming
+1971 <<The psychology of computer programming>>
 
 
 
@@ -160,7 +176,7 @@
 1972 Alain Colmerauer与Phillipe Roussel Prolog语言
 
 
-1973 计算机程序设计艺术第二版
+1973 <<计算机程序设计艺术第二版>>
 
 1973 Robin Milner ML语言
 
@@ -170,18 +186,21 @@
 
 1974 TCP
 
-1974 Zen and the Art of Motorcycle Maintenance
+1974 Intel推出了自己的第一款8位微处理芯片8080。
 
-1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series)
 
-1974 The Little Schemer
+1974 <<Zen and the Art of Motorcycle Maintenance>>
 
-1974 Brian W. Kernighan  The Elements of Programming Style 
+1974 <<Operating Systems: Design and Implementation (Prentice-Hall Software Series)>>
+
+1974 <<The Little Schemer>>
+
+1974 Brian W. Kernighan  <<The Elements of Programming Style>> 
 
 
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
 
-1975 Frederick P. Brooks, Jr 人月神话
+1975 Frederick P. Brooks, Jr <<人月神话>>
 
 1975 Bill gates 微软公司于1975年由比尔·盖茨和保罗·艾伦创立
 
@@ -196,7 +215,7 @@
 
 1976 Xerox设计了以太网
 
-1976 Edsger W. Dijkstra ,A Discipline of Programming
+1976 Edsger W. Dijkstra ,<<A Discipline of Programming>>
 
 1976 Diffie-Hellman
 
@@ -212,7 +231,7 @@
 
 1978 Donald Knuth TeX
 
-1978 The C Programming Language
+1978 <<The C Programming Language>>
 
 1978 Intel 8086 CPU
 
@@ -223,7 +242,7 @@
 
 1979 Bjarne Stroustrup C++ (Stroustrup）工作起于1979年的C with Classes
 
-1979 Harold Abelson / Gerald Jay Sussman / Julie Sussman ,Structure and Interpretation of Computer Programs
+1979 Harold Abelson / Gerald Jay Sussman / Julie Sussman ,<<Structure and Interpretation of Computer Programs>>
 
 1979 Oracle Database
 
@@ -231,7 +250,9 @@
 
 1979 Computers and Intractability 计算机和不可解性
 
-1979 The Art of Software Testing
+1979 （AlanKay）就提出了“Dynabook”的概念
+
+1979 <<The Art of Software Testing>>
 
 
 1980 Alan Curtis Kay, Smalltalk
@@ -275,7 +296,7 @@
 
 1983 CSV
 
-1983 Brian W. Kernighan  The Unix Programming Environment 
+1983 Brian W. Kernighan  <<The Unix Programming Environment>> 
 
 
 ## 个人电脑
@@ -307,15 +328,15 @@
 1985 Richard Matthew Stallman,Emacs Lisp
 
 
-1986 Programming Pearls
+1986 <<Programming Pearls>>
 
-1986 Design of the UNIX Operating System
+1986 <<Design of the UNIX Operating System>>
 
-1986 The Tao of Programming
+1986 <<The Tao of Programming>>
 
-1986 Compilers: Principles, Techniques, and Tools
+1986 <<Compilers: Principles, Techniques, and Tools>>
 
-1986 Introduction to functional programming
+1986 <<Introduction to functional programming>>
 
 
 1987 Larry Wall,Perl
@@ -512,6 +533,8 @@
 1995 SSL 2.0
 
 1995 SSH-1
+
+1995 Windows95
 
 
 
@@ -1051,6 +1074,8 @@
 2008 Cassandra
 
 2008 Pig
+
+2008 AppDynamics
 
 2008 TLS 1.2
 
