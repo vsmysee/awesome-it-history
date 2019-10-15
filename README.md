@@ -1569,8 +1569,12 @@
 
 2017 Serverless Architectures on AWS: With examples using AWS Lambda
 
-2018 Modern Java in Action: Lambdas, streams, functional and reactive programming
+2017 Mastering Bitcoin: Programming the Open Blockchain
 
+
+
+
+2018 Modern Java in Action: Lambdas, streams, functional and reactive programming
 
 2018 Google Cloud Memorystore
 
@@ -1623,3 +1627,5 @@
 2019 facebook发布Libra加密货币
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
+
+2019 Cloud Native Patterns: Designing change-tolerant software
