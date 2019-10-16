@@ -144,6 +144,8 @@
 
 1968  Niklaus Emil Wirth ,Pascal, 一个有影响的面向对象和面向过程编程语言
 
+1968 第一次提出了软件工程
+
 
 1969 AMD
 
@@ -181,6 +183,8 @@
 1973 Robin Milner ML语言
 
 1973 Actor model
+
+1973 第一个可视化操作的Alto计算机在施乐帕洛阿尔托研究中心（Xerox PARC）完成
 
 1973 ARPANET扩展为互联网，接入了英国和挪威的计算机
 
@@ -290,6 +294,8 @@
 
 1983 UNIX操作系统和C语言 图灵奖
 
+1983 苹果计算机公司推出Apple Lisa个人计算机，是全球第一款搭载图形用户界面（GUI）的个人计算机
+
 1983 IPv4
 
 1983 定义了DNS
@@ -327,6 +333,8 @@
 
 1985 Richard Matthew Stallman,Emacs Lisp
 
+
+1986 首款用于Unix的窗口系统X Window System发布
 
 1986 &#171;Programming Pearls&#187;
 
@@ -577,6 +585,8 @@
 
 1997 网易
 
+1997 KDE和GNOME两大开源桌面项目启动
+
 1997 Visual Studio
 
 1997 Aspect-oriented programming论文
@@ -690,6 +700,8 @@
 
 2000 kqueue
 
+2000 姚期智获得图灵奖
+
 2000 Mac OS X 的公开测试版于2000年释出
 
 2000 JetBrains成立于2000年，是一家私人持股的公司
@@ -702,6 +714,7 @@
 
 2000 Code: The Hidden Language of Computer Hardware and Software
 
+2001 Shannon逝世
 
 2001 大话西游
 
@@ -762,6 +775,9 @@
 
 2001 Writing Secure Code
 
+
+2002 Dijkstra逝世
+
 2002 Jira
 
 2002 Io programming language
@@ -808,6 +824,8 @@
 2003 Nemerle
 
 2003 梦幻西游
+
+2003 报告指出，在他们调查的13522个项目中，有66％的软件项目失败、82％超出时程、48％推出时缺乏必需的功能
 
 
 ## Google论文
