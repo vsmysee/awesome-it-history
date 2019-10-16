@@ -1626,6 +1626,8 @@
 
 2019 facebook发布Libra加密货币
 
+2019 华为发布鸿蒙
+
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
 
 2019 Cloud Native Patterns: Designing change-tolerant software
