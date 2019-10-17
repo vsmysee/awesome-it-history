@@ -1464,6 +1464,8 @@
 
 2015 Ignite
 
+2015 Edge
+
 2015 GraphQL 规范开源
 
 2015  ECMAScript 6
@@ -1640,11 +1642,17 @@
 
 2019 zeebe
 
+2019 （Windows Subsystem for Linux 2）
+
 2019 Joe Armstrong去世
 
 2019 facebook发布Libra加密货币
 
 2019 华为发布鸿蒙
+
+2019 kareldb
+
+2019 华为发布方舟编译器
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
 
