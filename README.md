@@ -694,6 +694,8 @@
 
 2000 .NET
 
+2000 QICQ
+
 2000 模拟人生
 
 2000 燃尽图（burndown chart
@@ -779,6 +781,10 @@
 2002 Dijkstra逝世
 
 2002 Jira
+
+2002 QQ
+
+2002 出现短网址概念
 
 2002 Io programming language
 
@@ -883,6 +889,8 @@
 
 2004 Minix 3
 
+2004 gmail
+
 2004 Selenium,ThoughtWorks
 
 2004 Markdown,John Gruber
@@ -926,6 +934,8 @@
 2005 MVVM
 
 2005 Backlog
+
+2005 360
 
 2005 六边形架构
 
@@ -1342,6 +1352,8 @@
 
 2013 CoreOS
 
+2013 google glass
+
 2013 InfluxDB
 
 2013 React由Facebook 的软件工程师Jordan Walke创建
@@ -1610,7 +1622,9 @@
 
 2018 Knative
 
-2018 spring data jdbc 1.0.0
+2018 spring data jdbc 1.0.
+
+2018 国内热炒中台
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
