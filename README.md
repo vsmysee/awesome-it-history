@@ -68,6 +68,8 @@
 
 1946 ENIAC (Electronic Numerical Integrator 和 Computer)电子数值积分计算机: 第一台真正意义上的数字电子计算机,占地170平方米，耗电150千瓦，造价48万美元
 
+1946 蒙特卡洛方法
+
 
 ## 编程
 
@@ -121,6 +123,8 @@
 1965 GordonMoore,Moore定律
 
 1965 DEC 公司推出了 PDP8 型计算机,标志着小型机时代的到来
+
+1965 快速傅立叶变换
 
 ## 结构化
 
@@ -1314,6 +1318,8 @@
 
 2012 微信公众号
 
+2012 Raspberry Pi
+
 2012 Google Spanner: Google's Globally-Distributed Database
 
 2012 Werner Vogels,DynamoDB was announced by Amazon CTO
@@ -1651,6 +1657,7 @@
 2018 Technology Strategy Patterns: Architecture as Strategy
 
 
+# 5G
 
 2019 5G
 
