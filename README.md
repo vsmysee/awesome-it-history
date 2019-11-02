@@ -196,6 +196,8 @@
 
 1974 Intel推出了自己的第一款8位微处理芯片8080。
 
+1974 RISC指令集
+
 
 1974 &#171;Zen and the Art of Motorcycle Maintenance&#187;
 
@@ -319,6 +321,8 @@
 
 1984 Donald E. Knuth提出Literate programming
 
+1984 MIPS
+
 
 1985 自由软件基金会
 
@@ -331,6 +335,8 @@
 1985 80386
 
 1985 FTP
+
+1985 ARM
 
 
 1985 Koblitz和Miller各自独立提出了著名的椭圆曲线加密（ECC）算法
@@ -424,6 +430,8 @@
 1991 QT
 
 1991 CORBA
+
+1991 PowerPC
 
 1991 Grady Booch 提出持续集成（CI）
 
@@ -687,6 +695,8 @@
 
 
 ## 新千年
+
+2000 摩托罗拉生产了第一步智能手机
 
 2000 Ant
 
