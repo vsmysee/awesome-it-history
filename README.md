@@ -1330,6 +1330,8 @@
 
 2012 Raspberry Pi
 
+2012 Serverless这个词第一次被使用由Ken Form所写的一篇名为《Why The Future of Software and Apps is Serverless》的文章
+
 2012 Google Spanner: Google's Globally-Distributed Database
 
 2012 Werner Vogels,DynamoDB was announced by Amazon CTO
