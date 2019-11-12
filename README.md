@@ -1287,6 +1287,8 @@
 
 2011 Gitlab
 
+2011 Cloud Foundry
+
 2011 Trello
 
 2011 Ceylon language
@@ -1688,6 +1690,8 @@
 2019 华为发布方舟编译器
 
 2019 java 12发布
+
+2019 gradle 6.0
 
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
 
