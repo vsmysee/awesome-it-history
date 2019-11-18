@@ -1555,6 +1555,8 @@
 
 2016 envoy
 
+2016 spring cloud Angel.SR5
+
 2016 Deep Learning
 
 2016 Solr 6 支持sql
@@ -1589,7 +1591,7 @@
 
 2017 Spring 5.0发布
 
-2017  &#171; Pro Spring 5 &#187;
+2017  Pro Spring 5
 
 2017 Service Mesh
 
@@ -1651,6 +1653,8 @@
 2018 spring data jdbc 1.0.
 
 2018 国内热炒中台
+
+2018 spring boot 2.0
 
 2018 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
