@@ -1303,6 +1303,8 @@
 
 2011 BPMN 2.0
 
+2011 十二因子方法论 Heroku
+
 2011 Open Networking Foundation
 
 2011 Nathan Marz,Storm 最初是由Nathan Marz及其团队创建于BackType
