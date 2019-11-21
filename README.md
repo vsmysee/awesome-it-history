@@ -1404,6 +1404,8 @@
 
 2013 Pivotal
 
+2013 TOML
+
 2013 Team Geek
 
 2013 NoSQL Distilled
@@ -1436,6 +1438,8 @@
 2014 Airflow
 
 2014 crystal lang
+
+2014 IE6终于死了
 
 2014 Martin Fowler 与 James Lewis 共同提出了微服务的概念，定义了微服务是由以单一应用程序构成的小服务，自己拥有自己的行程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯
 
