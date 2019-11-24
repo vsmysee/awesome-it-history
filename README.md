@@ -173,7 +173,7 @@
 
 1971 Ken Thompson,ed (text editor)
 
-1971 &#171;The psychology of computer programming&#187;
+1971 The psychology of computer programming;
 
 
 
@@ -182,7 +182,7 @@
 1972 Alain Colmerauer与Phillipe Roussel Prolog语言
 
 
-1973 &#171;计算机程序设计艺术第二版&#187;
+1973 计算机程序设计艺术第二版;
 
 1973 Robin Milner ML语言
 
@@ -199,18 +199,18 @@
 1974 RISC指令集
 
 
-1974 &#171;Zen and the Art of Motorcycle Maintenance&#187;
+1974 Zen and the Art of Motorcycle Maintenance;
 
-1974 &#171;Operating Systems: Design and Implementation (Prentice-Hall Software Series)&#187;
+1974 Operating Systems: Design and Implementation (Prentice-Hall Software Series);
 
-1974 &#171;The Little Schemer&#187;
+1974 The Little Schemer;
 
-1974 Brian W. Kernighan  &#171;The Elements of Programming Style&#187; 
+1974 Brian W. Kernighan  The Elements of Programming Style; 
 
 
 1975 Richard Stallman,Guy Lewis Steele Jr, emacs于1975年共同完成
 
-1975 Frederick P. Brooks, Jr &#171;人月神话&#187;
+1975 Frederick P. Brooks, Jr 人月神话;
 
 1975 Bill gates 微软公司于1975年由比尔·盖茨和保罗·艾伦创立
 
@@ -225,7 +225,7 @@
 
 1976 Xerox设计了以太网
 
-1976 Edsger W. Dijkstra ,&#171;A Discipline of Programming&#187;
+1976 Edsger W. Dijkstra ,A Discipline of Programming;
 
 1976 Diffie-Hellman
 
@@ -241,7 +241,7 @@
 
 1978 Donald Knuth TeX
 
-1978 &#171;The C Programming Language&#187;
+1978 The C Programming Language;
 
 1978 Intel 8086 CPU
 
@@ -252,7 +252,7 @@
 
 1979 Bjarne Stroustrup C++ (Stroustrup）工作起于1979年的C with Classes
 
-1979 Harold Abelson / Gerald Jay Sussman / Julie Sussman ,&#171;Structure and Interpretation of Computer Programs&#187;
+1979 Harold Abelson / Gerald Jay Sussman / Julie Sussman ,Structure and Interpretation of Computer Programs;
 
 1979 Oracle Database
 
@@ -262,7 +262,7 @@
 
 1979 （AlanKay）就提出了“Dynabook”的概念
 
-1979 &#171;The Art of Software Testing&#187;
+1979 The Art of Software Testing;
 
 
 1980 Alan Curtis Kay, Smalltalk
@@ -308,7 +308,7 @@
 
 1983 CSV
 
-1983 Brian W. Kernighan  &#171;The Unix Programming Environment&#187; 
+1983 Brian W. Kernighan  The Unix Programming Environment; 
 
 
 ## 个人电脑
@@ -346,15 +346,15 @@
 
 1986 首款用于Unix的窗口系统X Window System发布
 
-1986 &#171;Programming Pearls&#187;
+1986 Programming Pearls;
 
-1986 &#171;Design of the UNIX Operating System&#187;
+1986 Design of the UNIX Operating System;
 
-1986 &#171;The Tao of Programming&#187;
+1986 The Tao of Programming;
 
-1986 &#171;Compilers: Principles, Techniques, and Tools&#187;
+1986 Compilers: Principles, Techniques, and Tools;
 
-1986 &#171;Introduction to functional programming&#187;
+1986 Introduction to functional programming;
 
 
 1987 Larry Wall,Perl
@@ -386,7 +386,7 @@
 
 1988 The Zen of Programming
 
-1988  Brian W. Kernighan  &#171;The AWK Programming Language&#187;
+1988  Brian W. Kernighan  The AWK Programming Language;
 
 
 1989 LoadRunnuer
