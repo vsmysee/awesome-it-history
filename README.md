@@ -188,6 +188,8 @@
 
 1973 Actor model
 
+1973 Pipeline
+
 1973 第一个可视化操作的Alto计算机在施乐帕洛阿尔托研究中心（Xerox PARC）完成
 
 1973 ARPANET扩展为互联网，接入了英国和挪威的计算机
@@ -535,6 +537,8 @@
 1995 Rasmus Lerdorf,PHP
 
 1995 Thinking in C++
+
+1995 STM
 
 1995 XML 开始有其雏形，并向W3C（万维网联盟）提案
 
