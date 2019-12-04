@@ -601,6 +601,8 @@
 
 1997 网易
 
+1997 RPM
+
 1997 KDE和GNOME两大开源桌面项目启动
 
 1997 Visual Studio
@@ -633,6 +635,8 @@
 1998 CSS2
 
 1998 Java Community Process(JCP)
+
+1998 APT
 
 1998 IPv6
 
@@ -674,6 +678,8 @@
 1999 Doug Cutting,Lucene
 
 1999 定义了HTTP协议中现今广泛使用的一个版本——HTTP 1.1
+
+1999 YUM
 
 1999 HTML 4.01
 
@@ -743,6 +749,8 @@
 2001 ibatis
 
 2001 HAProxy
+
+2001 Linux VServer
 
 2001 Anders Hejlsberg 重新发明了 Java，并把它叫作 C#
 
@@ -967,6 +975,8 @@
 
 2005 BPMN
 
+2005 openVZ
+
 2005 Mercurial
 
 2005 fluent interface
@@ -1067,6 +1077,8 @@
 2007 RabbitMq
 
 2007 Heroku
+
+2007 Google CGroups
 
 2007 穿越火线
 
@@ -1187,6 +1199,8 @@
 
 2009 植物大战僵尸
 
+2009 HomeBrew
+
 2009 Leiningen
 
 2009 Mahout
@@ -1284,6 +1298,8 @@
 2011 Google Cloud SQL
 
 2011 H2O
+
+2011 OpenFlow
 
 2011 Jenkins
 
@@ -1443,6 +1459,8 @@
 
 2014 Airflow
 
+2014 RKT
+
 2014 crystal lang
 
 2014 IE6终于死了
@@ -1515,6 +1533,8 @@
 2015 Ignite
 
 2015 Edge
+
+2015 runC
 
 2015 GraphQL 规范开源
 
