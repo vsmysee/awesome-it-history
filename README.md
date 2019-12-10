@@ -1538,7 +1538,7 @@
 
 2015 GraphQL 规范开源
 
-2015  ECMAScript 6
+2015 ECMAScript 6
 
 2015 Pinpoint 1.0.4 release
 
@@ -1546,7 +1546,7 @@
 
 2015 Google DataFlow
 
-2015 Thiago de Arruda Padilha,Neovim
+2015 Thiago de Arruda Padilha,  Neovim
 
 2015 Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition
 
@@ -1563,6 +1563,8 @@
 2015 Amazon Web Services in Action
 
 2015 The Go Programming Language
+
+2015 Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud
 
 
 ## 智能
@@ -1712,6 +1714,8 @@
 
 2018 Technology Strategy Patterns: Architecture as Strategy
 
+2018 Network Programmability and Automation: Skills for the Next-Generation Network Engineer
+
 
 # 5G
 
@@ -1731,7 +1735,7 @@
 
 2019 华为发布方舟编译器
 
-2019 java 12发布
+2019 Java 12发布
 
 2019 gradle 6.0
 
