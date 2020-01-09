@@ -1143,6 +1143,8 @@
 
 2008 New Relic
 
+2008 Mysql 5.1
+
 2008 Stack Overflow by Jeff Atwood and Joel Spolsky.
 
 2008 Beautiful Code
@@ -1538,6 +1540,8 @@
 
 2015 runC
 
+2015 Mysql5.7
+
 2015 GraphQL 规范开源
 
 2015 ECMAScript 6
@@ -1687,6 +1691,8 @@
 2018 Knative
 
 2018 quarkus
+
+2018 Mysql 8.0
 
 2018 spring data jdbc 1.0.
 
