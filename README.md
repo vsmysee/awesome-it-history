@@ -1762,3 +1762,5 @@
 2019 Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale
 
 2019 Cloud Native Patterns: Designing change-tolerant software
+
+2019 Kubernetes Patterns
